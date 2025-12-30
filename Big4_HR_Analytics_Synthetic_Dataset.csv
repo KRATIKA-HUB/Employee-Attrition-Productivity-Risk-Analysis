@@ -1,0 +1,2001 @@
+Employee_ID,Gender,Age,Department,Job_Level,Years_At_Company,Monthly_Salary_INR,Avg_Weekly_Hours,Performance_Rating,Promotion_Last_2_Years,Training_Hours_Last_Year,Attrition
+EMP10000,Male,35,Tax,Analyst,0.8,166294,68,2,No,30,Yes
+EMP10001,Female,32,Tax,Senior Analyst,11.6,89068,45,3,No,76,No
+EMP10002,Male,36,Audit,Analyst,1.5,41116,65,4,No,46,Yes
+EMP10003,Male,44,Technology,Senior Analyst,0.9,76369,45,2,No,26,Yes
+EMP10004,Male,39,Consulting,Analyst,1.6,128100,55,2,No,50,Yes
+EMP10005,Female,28,Advisory,Analyst,0.3,54655,64,1,Yes,19,Yes
+EMP10006,Male,41,Tax,Analyst,0.4,72632,44,3,No,12,Yes
+EMP10007,Male,37,Advisory,Analyst,1.6,170265,60,4,Yes,62,Yes
+EMP10008,Male,43,Audit,Senior Analyst,4.3,43895,61,4,Yes,43,Yes
+EMP10009,Female,25,Advisory,Manager,6.9,177281,42,5,No,23,No
+EMP10010,Male,42,Consulting,Manager,3.3,48086,42,2,Yes,2,Yes
+EMP10011,Male,36,Technology,Manager,0.3,110637,42,5,No,9,Yes
+EMP10012,Male,26,Consulting,Analyst,3.3,132334,68,4,No,64,Yes
+EMP10013,Male,28,Consulting,Analyst,3.0,176969,50,3,No,48,No
+EMP10014,Female,38,Tax,Analyst,4.9,88083,47,5,Yes,57,No
+EMP10015,Male,32,Consulting,Analyst,5.2,120028,57,3,Yes,76,Yes
+EMP10016,Female,35,Advisory,Senior Analyst,6.1,91957,46,4,No,77,No
+EMP10017,Female,29,Advisory,Analyst,1.6,122551,61,4,No,1,Yes
+EMP10018,Female,33,Technology,Analyst,3.6,103506,56,4,Yes,65,Yes
+EMP10019,Male,35,Advisory,Manager,0.9,163355,66,3,Yes,30,Yes
+EMP10020,Female,30,Consulting,Senior Analyst,22.0,119024,61,2,No,67,Yes
+EMP10021,Male,36,Audit,Analyst,0.6,106481,36,3,Yes,36,No
+EMP10022,Female,27,Audit,Analyst,0.0,25255,67,3,No,72,Yes
+EMP10023,Female,37,Audit,Analyst,0.5,40487,60,4,No,23,Yes
+EMP10024,Female,43,Audit,Manager,4.5,44346,62,4,No,76,Yes
+EMP10025,Female,41,Advisory,Analyst,1.8,60050,53,5,No,43,No
+EMP10026,Female,42,Tax,Analyst,1.8,33744,39,1,Yes,40,Yes
+EMP10027,Female,27,Consulting,Analyst,9.3,86596,67,4,No,73,Yes
+EMP10028,Female,34,Tax,Senior Analyst,7.6,144640,54,5,No,50,No
+EMP10029,Female,35,Technology,Analyst,1.1,80032,64,4,No,41,Yes
+EMP10030,Male,41,Tax,Manager,0.7,67687,42,2,No,77,Yes
+EMP10031,Male,27,Advisory,Manager,5.7,178048,51,2,No,39,Yes
+EMP10032,Female,29,Consulting,Manager,7.1,87863,35,1,Yes,47,Yes
+EMP10033,Female,39,Consulting,Analyst,2.3,156663,37,4,No,3,No
+EMP10034,Female,36,Audit,Manager,3.0,31277,60,4,No,59,Yes
+EMP10035,Male,28,Consulting,Senior Analyst,0.9,86860,65,5,No,38,Yes
+EMP10036,Female,38,Technology,Analyst,4.8,158332,42,3,No,4,No
+EMP10037,Male,43,Tax,Senior Analyst,3.0,49741,42,3,No,5,Yes
+EMP10038,Male,38,Audit,Analyst,2.1,144720,69,4,No,13,Yes
+EMP10039,Male,40,Consulting,Analyst,0.2,62211,62,4,No,69,Yes
+EMP10040,Male,27,Tax,Senior Analyst,7.4,31869,38,5,Yes,77,Yes
+EMP10041,Male,23,Audit,Analyst,2.9,112616,50,4,No,11,Yes
+EMP10042,Female,38,Consulting,Senior Analyst,0.6,119515,47,3,No,61,Yes
+EMP10043,Female,30,Technology,Analyst,2.8,175494,54,4,No,26,No
+EMP10044,Female,27,Consulting,Manager,3.4,85110,39,4,No,53,Yes
+EMP10045,Female,37,Audit,Senior Manager,2.2,59033,54,3,No,11,No
+EMP10046,Female,34,Consulting,Manager,3.8,70213,58,3,No,7,Yes
+EMP10047,Male,44,Technology,Analyst,2.6,37938,68,2,No,73,Yes
+EMP10048,Female,23,Advisory,Analyst,8.9,155842,68,1,Yes,15,Yes
+EMP10049,Female,32,Audit,Senior Analyst,0.2,27274,53,4,Yes,51,Yes
+EMP10050,Male,33,Consulting,Analyst,0.3,109390,51,2,No,25,Yes
+EMP10051,Female,22,Consulting,Analyst,0.6,175033,39,3,No,7,Yes
+EMP10052,Male,23,Advisory,Senior Analyst,3.5,45044,59,3,Yes,44,No
+EMP10053,Female,25,Tax,Senior Analyst,3.1,124372,52,3,Yes,18,No
+EMP10054,Male,31,Audit,Senior Manager,6.7,178047,42,3,No,16,No
+EMP10055,Female,28,Technology,Analyst,4.0,39706,61,4,No,64,Yes
+EMP10056,Female,43,Audit,Analyst,2.1,162046,49,2,No,28,Yes
+EMP10057,Male,43,Consulting,Analyst,14.4,101464,47,2,Yes,13,Yes
+EMP10058,Male,32,Audit,Manager,0.9,46213,50,3,No,16,Yes
+EMP10059,Male,27,Consulting,Manager,5.4,26950,56,3,No,12,Yes
+EMP10060,Male,35,Consulting,Manager,1.7,35411,54,3,No,62,Yes
+EMP10061,Male,44,Consulting,Manager,3.1,153603,47,2,No,32,No
+EMP10062,Male,37,Audit,Senior Analyst,3.9,87744,54,4,Yes,28,No
+EMP10063,Male,24,Advisory,Senior Analyst,3.0,173843,36,4,No,36,Yes
+EMP10064,Male,42,Audit,Analyst,0.5,60053,69,2,Yes,45,Yes
+EMP10065,Female,33,Tax,Senior Analyst,1.8,163117,53,2,Yes,23,Yes
+EMP10066,Female,38,Technology,Senior Analyst,2.5,82623,40,5,No,13,No
+EMP10067,Male,21,Consulting,Senior Analyst,5.7,54714,48,4,No,4,Yes
+EMP10068,Female,36,Consulting,Manager,1.8,134283,38,3,No,52,Yes
+EMP10069,Female,33,Consulting,Senior Manager,7.5,33562,56,4,No,29,Yes
+EMP10070,Female,30,Audit,Manager,1.7,80048,68,4,No,59,Yes
+EMP10071,Female,32,Consulting,Manager,2.4,118295,61,4,No,72,Yes
+EMP10072,Male,22,Tax,Senior Analyst,4.8,37026,41,3,Yes,27,Yes
+EMP10073,Female,43,Advisory,Analyst,2.6,131147,37,3,No,25,No
+EMP10074,Male,23,Audit,Analyst,9.7,56589,67,1,Yes,17,Yes
+EMP10075,Female,30,Tax,Senior Analyst,3.2,133199,36,5,No,35,Yes
+EMP10076,Female,22,Consulting,Senior Analyst,2.2,122274,50,4,Yes,7,Yes
+EMP10077,Female,43,Tax,Analyst,0.1,51844,59,3,No,17,Yes
+EMP10078,Male,33,Advisory,Manager,1.6,179519,49,5,No,57,No
+EMP10079,Female,33,Advisory,Analyst,1.1,115415,58,5,No,31,Yes
+EMP10080,Male,38,Audit,Analyst,4.1,79708,49,5,No,48,Yes
+EMP10081,Female,23,Audit,Senior Analyst,0.7,95825,65,4,No,47,Yes
+EMP10082,Male,27,Technology,Analyst,0.7,76574,48,5,No,70,Yes
+EMP10083,Female,34,Audit,Analyst,0.6,110548,48,3,No,64,Yes
+EMP10084,Male,40,Technology,Analyst,0.4,174884,40,4,No,32,Yes
+EMP10085,Male,37,Consulting,Manager,1.1,89230,48,4,Yes,49,Yes
+EMP10086,Female,41,Audit,Analyst,6.5,65581,51,3,Yes,3,No
+EMP10087,Male,32,Audit,Senior Analyst,4.5,50105,52,2,Yes,35,Yes
+EMP10088,Female,36,Audit,Senior Analyst,4.0,104830,54,5,Yes,27,Yes
+EMP10089,Female,44,Technology,Analyst,4.8,94157,51,3,No,2,No
+EMP10090,Female,32,Consulting,Senior Manager,0.9,112235,50,4,Yes,5,Yes
+EMP10091,Female,35,Consulting,Analyst,6.6,27347,66,1,Yes,44,Yes
+EMP10092,Female,30,Consulting,Senior Manager,0.4,72650,43,1,Yes,22,Yes
+EMP10093,Female,27,Audit,Senior Analyst,1.2,173182,61,3,No,6,Yes
+EMP10094,Female,40,Consulting,Senior Manager,2.7,160995,67,3,No,60,Yes
+EMP10095,Female,25,Audit,Analyst,0.3,149926,44,4,No,64,Yes
+EMP10096,Female,21,Tax,Senior Analyst,3.9,106147,51,3,No,5,Yes
+EMP10097,Female,37,Consulting,Analyst,1.5,73135,51,2,Yes,23,Yes
+EMP10098,Female,23,Consulting,Analyst,4.6,44199,52,2,No,36,No
+EMP10099,Male,33,Consulting,Senior Analyst,2.0,165138,57,3,No,44,No
+EMP10100,Male,34,Consulting,Analyst,0.6,126583,68,2,Yes,50,Yes
+EMP10101,Female,44,Technology,Senior Analyst,4.0,117290,42,4,No,44,Yes
+EMP10102,Female,38,Consulting,Analyst,0.9,145787,47,3,No,62,Yes
+EMP10103,Female,24,Audit,Analyst,2.0,139427,57,2,No,28,Yes
+EMP10104,Female,38,Advisory,Manager,0.2,173063,54,3,No,24,Yes
+EMP10105,Female,25,Audit,Analyst,2.9,178625,56,2,Yes,9,No
+EMP10106,Female,36,Audit,Senior Analyst,3.3,112493,57,2,Yes,34,Yes
+EMP10107,Female,21,Technology,Senior Analyst,1.4,156706,69,3,Yes,54,Yes
+EMP10108,Female,41,Tax,Manager,9.3,37771,37,4,Yes,24,Yes
+EMP10109,Male,34,Technology,Analyst,6.2,150607,68,5,Yes,44,Yes
+EMP10110,Female,35,Consulting,Senior Analyst,3.7,174370,67,4,No,11,Yes
+EMP10111,Male,29,Consulting,Senior Manager,3.8,104876,51,3,Yes,3,Yes
+EMP10112,Female,35,Audit,Senior Analyst,0.9,84648,53,3,No,66,Yes
+EMP10113,Female,37,Audit,Senior Analyst,3.2,100783,64,3,No,16,Yes
+EMP10114,Male,44,Tax,Senior Analyst,0.7,69440,57,4,No,72,Yes
+EMP10115,Female,24,Consulting,Senior Analyst,0.5,56655,49,5,No,64,No
+EMP10116,Male,32,Tax,Senior Analyst,22.6,68039,48,2,No,52,No
+EMP10117,Female,25,Tax,Analyst,2.9,80255,36,1,No,56,Yes
+EMP10118,Female,25,Audit,Analyst,1.7,97219,52,4,No,27,No
+EMP10119,Male,31,Consulting,Manager,1.0,36244,40,4,No,15,Yes
+EMP10120,Female,26,Advisory,Analyst,2.8,119594,66,4,No,20,No
+EMP10121,Male,27,Audit,Senior Analyst,0.2,83595,55,4,Yes,76,Yes
+EMP10122,Female,44,Tax,Analyst,0.3,128898,62,5,No,41,Yes
+EMP10123,Male,34,Consulting,Senior Analyst,0.1,53371,61,3,No,53,Yes
+EMP10124,Male,44,Audit,Analyst,2.1,30914,36,5,No,31,No
+EMP10125,Female,31,Advisory,Analyst,2.8,52180,67,5,Yes,37,Yes
+EMP10126,Female,33,Technology,Senior Manager,0.2,159760,50,4,No,69,Yes
+EMP10127,Male,22,Audit,Manager,3.8,105219,56,3,No,37,Yes
+EMP10128,Female,27,Tax,Senior Analyst,0.8,103616,47,2,Yes,53,Yes
+EMP10129,Female,40,Audit,Senior Analyst,3.5,165988,36,3,No,59,Yes
+EMP10130,Female,24,Tax,Senior Analyst,12.0,120213,48,3,No,76,No
+EMP10131,Male,28,Tax,Senior Analyst,3.5,62805,62,4,No,76,Yes
+EMP10132,Male,40,Consulting,Senior Analyst,6.4,169525,41,2,No,46,No
+EMP10133,Male,42,Consulting,Analyst,8.9,151599,52,3,No,11,Yes
+EMP10134,Male,41,Tax,Senior Analyst,2.0,178775,38,4,No,52,No
+EMP10135,Male,39,Consulting,Manager,3.6,99176,64,2,Yes,32,No
+EMP10136,Male,33,Tax,Senior Manager,5.7,119799,58,3,No,27,Yes
+EMP10137,Male,34,Audit,Analyst,1.3,123385,54,3,No,2,Yes
+EMP10138,Male,30,Technology,Senior Analyst,0.9,113919,65,4,No,25,Yes
+EMP10139,Male,31,Tax,Senior Analyst,8.8,163482,58,2,No,53,No
+EMP10140,Female,22,Technology,Analyst,3.9,106462,41,4,Yes,39,Yes
+EMP10141,Male,29,Audit,Analyst,0.7,56159,60,3,No,65,Yes
+EMP10142,Female,37,Advisory,Analyst,1.8,67039,47,5,No,67,Yes
+EMP10143,Female,23,Advisory,Analyst,4.8,72800,42,3,Yes,46,Yes
+EMP10144,Female,44,Consulting,Analyst,2.4,65761,39,3,Yes,1,No
+EMP10145,Male,26,Consulting,Senior Analyst,3.1,119626,47,2,Yes,41,No
+EMP10146,Male,25,Audit,Senior Analyst,4.2,143368,63,1,No,33,No
+EMP10147,Male,25,Tax,Senior Analyst,2.9,105903,54,3,Yes,20,No
+EMP10148,Male,42,Consulting,Manager,2.3,143998,48,2,Yes,43,No
+EMP10149,Female,35,Audit,Analyst,4.2,161885,66,3,No,1,Yes
+EMP10150,Male,43,Advisory,Analyst,3.9,84894,61,3,No,58,Yes
+EMP10151,Male,37,Consulting,Senior Analyst,3.0,76444,59,3,Yes,15,Yes
+EMP10152,Male,29,Audit,Analyst,1.3,86748,38,2,Yes,19,No
+EMP10153,Male,23,Technology,Analyst,1.6,66190,55,4,Yes,25,Yes
+EMP10154,Male,40,Technology,Analyst,10.6,65318,52,5,Yes,15,Yes
+EMP10155,Female,37,Consulting,Analyst,0.4,149078,49,2,Yes,69,Yes
+EMP10156,Male,30,Audit,Manager,0.9,64759,58,2,No,22,Yes
+EMP10157,Female,23,Tax,Analyst,2.0,41498,42,5,Yes,41,No
+EMP10158,Male,38,Consulting,Senior Analyst,5.4,50989,62,1,No,36,Yes
+EMP10159,Female,38,Consulting,Analyst,0.5,142035,55,5,No,71,Yes
+EMP10160,Male,37,Consulting,Senior Analyst,1.0,91577,50,1,No,5,Yes
+EMP10161,Male,44,Consulting,Analyst,0.2,130231,50,4,No,36,No
+EMP10162,Female,23,Advisory,Senior Analyst,3.7,114900,69,3,No,21,No
+EMP10163,Female,23,Consulting,Analyst,0.8,129679,51,5,No,5,Yes
+EMP10164,Female,26,Advisory,Analyst,1.5,48482,43,3,No,31,Yes
+EMP10165,Male,33,Technology,Senior Analyst,1.8,94212,69,4,Yes,16,Yes
+EMP10166,Female,44,Consulting,Analyst,6.7,55048,63,2,Yes,37,Yes
+EMP10167,Male,35,Tax,Analyst,1.6,159137,52,3,No,16,Yes
+EMP10168,Male,29,Technology,Analyst,0.5,158108,46,4,No,36,Yes
+EMP10169,Female,24,Consulting,Manager,2.2,60814,53,3,No,22,Yes
+EMP10170,Female,34,Consulting,Analyst,9.9,172996,56,5,No,48,Yes
+EMP10171,Male,25,Advisory,Senior Analyst,2.8,154493,49,3,No,60,Yes
+EMP10172,Male,22,Advisory,Analyst,12.3,85204,35,4,No,48,Yes
+EMP10173,Female,31,Tax,Analyst,5.5,57844,36,3,No,60,No
+EMP10174,Female,29,Consulting,Analyst,0.1,106943,42,5,No,76,Yes
+EMP10175,Female,44,Technology,Manager,3.2,46518,56,5,No,31,Yes
+EMP10176,Male,23,Audit,Analyst,1.0,173131,59,3,No,62,Yes
+EMP10177,Male,29,Audit,Analyst,2.5,48052,36,4,Yes,6,No
+EMP10178,Male,23,Advisory,Analyst,1.0,94803,43,4,No,21,No
+EMP10179,Male,22,Consulting,Analyst,1.3,96524,43,3,Yes,5,No
+EMP10180,Male,32,Audit,Analyst,7.7,114572,47,4,Yes,60,No
+EMP10181,Male,30,Consulting,Senior Analyst,0.7,164752,40,2,No,13,Yes
+EMP10182,Female,29,Consulting,Analyst,6.2,92021,64,4,Yes,15,No
+EMP10183,Male,35,Audit,Analyst,0.1,45043,49,2,No,2,Yes
+EMP10184,Male,28,Technology,Senior Analyst,0.3,27419,49,2,Yes,8,Yes
+EMP10185,Male,25,Audit,Analyst,5.8,146831,41,3,No,46,No
+EMP10186,Female,31,Tax,Analyst,3.0,126799,45,3,Yes,41,Yes
+EMP10187,Male,22,Tax,Analyst,4.1,173212,36,4,No,41,Yes
+EMP10188,Male,44,Technology,Senior Analyst,0.7,82600,44,5,Yes,22,No
+EMP10189,Female,35,Audit,Analyst,2.3,141467,51,3,No,2,Yes
+EMP10190,Male,26,Technology,Senior Analyst,4.0,103497,41,2,No,0,No
+EMP10191,Male,28,Consulting,Analyst,3.0,133611,38,4,No,66,Yes
+EMP10192,Male,25,Advisory,Senior Analyst,1.9,162559,69,3,Yes,70,Yes
+EMP10193,Male,36,Advisory,Analyst,9.6,85692,65,3,Yes,2,No
+EMP10194,Male,38,Tax,Senior Analyst,3.4,87112,59,3,Yes,48,Yes
+EMP10195,Female,26,Consulting,Manager,7.1,41360,47,3,No,66,Yes
+EMP10196,Female,25,Tax,Senior Analyst,3.9,108038,52,3,No,54,No
+EMP10197,Female,36,Consulting,Analyst,4.0,28017,55,4,No,3,Yes
+EMP10198,Male,33,Tax,Analyst,0.3,111261,35,3,Yes,30,No
+EMP10199,Male,25,Technology,Analyst,1.3,91320,42,4,No,65,Yes
+EMP10200,Male,33,Audit,Analyst,5.9,56127,55,3,No,77,No
+EMP10201,Female,37,Technology,Analyst,0.8,159268,55,3,Yes,63,Yes
+EMP10202,Male,38,Audit,Manager,0.4,100088,61,4,No,30,Yes
+EMP10203,Male,28,Audit,Analyst,1.2,56921,53,3,No,62,Yes
+EMP10204,Female,33,Audit,Analyst,0.7,29746,57,3,Yes,65,Yes
+EMP10205,Male,39,Consulting,Senior Analyst,7.8,93535,69,4,Yes,30,Yes
+EMP10206,Female,23,Advisory,Senior Analyst,6.1,90350,39,3,Yes,46,Yes
+EMP10207,Female,44,Audit,Analyst,2.1,106131,42,4,No,21,No
+EMP10208,Female,28,Audit,Manager,0.2,47063,45,3,Yes,73,Yes
+EMP10209,Male,22,Technology,Analyst,3.8,142116,50,4,Yes,45,No
+EMP10210,Male,28,Tax,Senior Analyst,2.9,113913,58,2,No,57,Yes
+EMP10211,Male,33,Tax,Manager,10.6,103946,55,3,Yes,60,No
+EMP10212,Male,33,Technology,Senior Analyst,2.5,159670,57,5,Yes,45,No
+EMP10213,Male,21,Tax,Senior Analyst,1.2,35564,42,4,No,0,Yes
+EMP10214,Male,26,Audit,Analyst,2.2,74725,41,2,Yes,24,Yes
+EMP10215,Male,44,Consulting,Analyst,11.6,111134,36,3,No,60,No
+EMP10216,Female,39,Tax,Senior Analyst,3.6,130940,64,3,No,13,Yes
+EMP10217,Male,36,Consulting,Analyst,3.3,87085,47,4,No,44,Yes
+EMP10218,Female,28,Advisory,Manager,0.8,42862,57,4,No,76,Yes
+EMP10219,Male,21,Audit,Analyst,4.1,35265,63,4,Yes,38,No
+EMP10220,Male,36,Consulting,Analyst,4.2,165777,54,3,No,65,Yes
+EMP10221,Male,29,Consulting,Analyst,1.1,87471,67,4,No,31,Yes
+EMP10222,Female,33,Advisory,Analyst,2.0,116080,63,3,No,57,Yes
+EMP10223,Female,31,Advisory,Senior Analyst,1.0,80828,49,2,No,55,Yes
+EMP10224,Female,33,Advisory,Senior Analyst,0.9,141884,57,3,No,5,Yes
+EMP10225,Female,41,Audit,Senior Analyst,0.1,133007,37,5,No,66,No
+EMP10226,Male,30,Audit,Manager,1.0,71104,63,4,No,49,Yes
+EMP10227,Female,24,Technology,Manager,2.4,65934,42,3,No,37,Yes
+EMP10228,Male,26,Advisory,Manager,0.0,139420,56,4,No,2,Yes
+EMP10229,Male,27,Audit,Analyst,1.0,31050,63,5,No,4,Yes
+EMP10230,Female,25,Tax,Senior Analyst,6.4,33484,36,3,No,23,Yes
+EMP10231,Female,31,Audit,Analyst,2.7,87648,35,3,No,53,Yes
+EMP10232,Female,33,Consulting,Analyst,2.8,84945,54,5,No,33,No
+EMP10233,Female,39,Audit,Senior Analyst,1.5,56323,55,4,No,38,Yes
+EMP10234,Female,43,Tax,Analyst,3.4,111332,42,3,Yes,47,Yes
+EMP10235,Female,30,Advisory,Analyst,0.6,119605,61,3,No,48,Yes
+EMP10236,Female,30,Audit,Analyst,5.1,35315,69,3,Yes,33,No
+EMP10237,Female,31,Technology,Analyst,0.4,72968,40,2,No,79,Yes
+EMP10238,Male,41,Consulting,Manager,3.2,34107,53,5,No,6,No
+EMP10239,Female,27,Consulting,Analyst,1.3,80781,52,3,Yes,17,Yes
+EMP10240,Female,38,Audit,Analyst,4.1,28869,35,4,No,69,Yes
+EMP10241,Male,24,Consulting,Analyst,2.4,105983,59,2,No,33,Yes
+EMP10242,Female,22,Audit,Analyst,1.8,32971,61,3,Yes,50,Yes
+EMP10243,Male,34,Advisory,Manager,0.6,121805,41,1,No,67,No
+EMP10244,Male,33,Tax,Analyst,3.0,50651,63,4,No,13,Yes
+EMP10245,Female,32,Consulting,Senior Analyst,11.0,81974,65,3,Yes,68,Yes
+EMP10246,Male,27,Audit,Senior Analyst,5.2,48446,53,4,No,7,No
+EMP10247,Male,22,Audit,Manager,0.2,28823,40,2,No,14,Yes
+EMP10248,Male,33,Audit,Senior Analyst,1.4,169526,59,3,Yes,58,Yes
+EMP10249,Male,34,Consulting,Manager,7.8,160004,65,2,Yes,10,No
+EMP10250,Female,37,Tax,Analyst,2.1,166292,43,3,No,19,Yes
+EMP10251,Male,29,Audit,Analyst,3.3,92965,54,4,No,54,No
+EMP10252,Female,37,Tax,Analyst,7.3,35510,44,3,Yes,35,No
+EMP10253,Male,28,Technology,Manager,6.2,166609,61,4,Yes,13,Yes
+EMP10254,Male,22,Consulting,Analyst,2.1,130935,47,3,No,57,Yes
+EMP10255,Male,44,Tax,Analyst,1.7,94134,36,3,No,37,Yes
+EMP10256,Male,33,Advisory,Analyst,1.2,97254,55,3,No,79,Yes
+EMP10257,Female,23,Advisory,Analyst,3.8,169854,67,2,No,0,Yes
+EMP10258,Female,36,Consulting,Analyst,1.0,139780,58,4,No,64,Yes
+EMP10259,Male,26,Consulting,Senior Manager,0.9,150544,68,4,No,0,Yes
+EMP10260,Male,39,Audit,Analyst,1.3,90587,43,2,No,59,Yes
+EMP10261,Female,27,Consulting,Senior Analyst,0.6,107238,36,2,No,24,Yes
+EMP10262,Male,30,Consulting,Senior Analyst,3.6,100720,64,4,No,9,Yes
+EMP10263,Male,29,Advisory,Analyst,2.9,103004,56,4,No,49,Yes
+EMP10264,Male,22,Audit,Analyst,2.0,47072,45,4,No,11,No
+EMP10265,Female,35,Technology,Analyst,1.5,106015,51,3,No,31,Yes
+EMP10266,Female,25,Tax,Analyst,7.2,97746,47,3,No,32,Yes
+EMP10267,Female,42,Consulting,Senior Analyst,0.1,127260,41,5,Yes,71,Yes
+EMP10268,Male,24,Audit,Analyst,4.4,162129,50,4,No,25,No
+EMP10269,Male,40,Technology,Analyst,7.0,153259,67,3,No,41,No
+EMP10270,Female,24,Tax,Senior Analyst,1.8,55916,35,4,Yes,49,Yes
+EMP10271,Female,38,Tax,Manager,2.4,52268,45,4,No,60,Yes
+EMP10272,Female,24,Consulting,Manager,8.7,48259,40,3,Yes,40,No
+EMP10273,Female,37,Consulting,Manager,0.7,104400,54,3,No,56,Yes
+EMP10274,Male,32,Audit,Manager,2.2,59293,69,2,Yes,1,No
+EMP10275,Female,42,Audit,Analyst,1.9,136581,60,2,No,69,Yes
+EMP10276,Male,37,Tax,Manager,0.9,32043,46,4,No,30,Yes
+EMP10277,Female,30,Tax,Analyst,5.1,132009,64,3,Yes,22,Yes
+EMP10278,Male,42,Advisory,Senior Analyst,6.9,63893,62,4,No,75,Yes
+EMP10279,Female,21,Technology,Senior Analyst,4.6,51309,61,5,Yes,53,Yes
+EMP10280,Female,42,Advisory,Analyst,0.7,48284,53,2,No,27,Yes
+EMP10281,Female,44,Consulting,Manager,0.3,151801,39,3,No,78,Yes
+EMP10282,Female,38,Consulting,Manager,2.8,138259,39,4,Yes,18,No
+EMP10283,Male,38,Technology,Analyst,0.2,125804,61,4,No,75,Yes
+EMP10284,Female,34,Audit,Manager,3.4,94000,62,4,Yes,47,Yes
+EMP10285,Male,35,Technology,Analyst,2.3,109179,60,3,No,1,Yes
+EMP10286,Male,32,Tax,Senior Analyst,3.3,90049,61,3,No,10,Yes
+EMP10287,Male,24,Audit,Senior Analyst,2.7,54265,55,3,No,43,No
+EMP10288,Male,23,Advisory,Senior Analyst,1.6,48880,35,5,No,58,Yes
+EMP10289,Female,40,Technology,Manager,0.7,109579,62,3,No,58,Yes
+EMP10290,Male,32,Advisory,Manager,1.1,156327,49,5,No,37,No
+EMP10291,Male,27,Technology,Manager,2.2,157574,51,3,No,24,No
+EMP10292,Male,31,Technology,Analyst,3.2,90424,60,5,Yes,20,Yes
+EMP10293,Female,21,Consulting,Manager,4.5,95966,54,4,No,41,No
+EMP10294,Female,26,Consulting,Analyst,4.4,92396,59,3,Yes,35,Yes
+EMP10295,Female,35,Technology,Manager,10.8,96694,47,4,Yes,8,No
+EMP10296,Female,35,Advisory,Analyst,1.0,161878,67,3,No,11,Yes
+EMP10297,Male,39,Audit,Analyst,0.2,42106,59,3,No,9,Yes
+EMP10298,Male,31,Audit,Senior Analyst,1.3,81731,42,2,No,58,Yes
+EMP10299,Female,43,Advisory,Analyst,4.1,100010,39,2,No,4,Yes
+EMP10300,Male,22,Technology,Analyst,1.7,57599,40,3,No,32,No
+EMP10301,Male,34,Tax,Analyst,5.1,96326,57,4,No,68,No
+EMP10302,Male,22,Advisory,Analyst,2.4,100706,64,4,Yes,79,Yes
+EMP10303,Female,24,Audit,Analyst,8.0,34004,48,2,No,62,Yes
+EMP10304,Female,37,Consulting,Analyst,8.9,140018,57,4,No,28,Yes
+EMP10305,Male,23,Technology,Analyst,0.2,50792,45,4,No,17,Yes
+EMP10306,Female,33,Audit,Analyst,1.8,79645,65,5,No,5,Yes
+EMP10307,Female,29,Consulting,Senior Analyst,2.8,32232,40,4,No,52,Yes
+EMP10308,Female,27,Audit,Analyst,0.9,79766,45,2,No,31,No
+EMP10309,Female,35,Advisory,Manager,1.6,145601,47,3,No,41,Yes
+EMP10310,Female,43,Technology,Manager,3.4,106588,46,4,No,46,No
+EMP10311,Male,31,Consulting,Analyst,0.8,30913,36,1,No,30,Yes
+EMP10312,Female,40,Consulting,Manager,2.8,137406,69,1,Yes,61,Yes
+EMP10313,Male,22,Advisory,Manager,3.6,138693,51,2,Yes,55,Yes
+EMP10314,Male,35,Technology,Senior Manager,0.3,118449,62,3,Yes,10,Yes
+EMP10315,Female,34,Audit,Senior Analyst,2.1,35567,62,3,No,25,Yes
+EMP10316,Male,40,Consulting,Analyst,0.9,63379,56,3,No,26,Yes
+EMP10317,Male,42,Consulting,Senior Analyst,3.9,25319,41,2,No,56,Yes
+EMP10318,Male,31,Technology,Senior Analyst,0.6,115005,49,4,Yes,26,Yes
+EMP10319,Female,23,Consulting,Senior Analyst,6.7,135990,66,3,No,58,No
+EMP10320,Female,37,Audit,Analyst,1.7,29791,45,3,No,61,Yes
+EMP10321,Male,32,Advisory,Manager,0.7,156401,58,1,No,19,Yes
+EMP10322,Female,44,Tax,Senior Manager,1.7,86032,37,2,No,2,No
+EMP10323,Female,41,Audit,Analyst,1.6,113662,64,3,No,15,Yes
+EMP10324,Female,35,Technology,Analyst,1.7,46300,40,2,Yes,43,Yes
+EMP10325,Female,36,Audit,Analyst,2.6,100700,36,3,Yes,78,No
+EMP10326,Male,25,Advisory,Manager,2.2,80609,48,4,Yes,29,No
+EMP10327,Male,40,Consulting,Senior Analyst,0.5,115045,52,3,No,39,Yes
+EMP10328,Female,26,Tax,Senior Analyst,0.2,86901,65,3,Yes,64,Yes
+EMP10329,Female,39,Consulting,Analyst,3.9,30703,47,3,No,28,Yes
+EMP10330,Male,25,Technology,Senior Analyst,2.5,88115,60,4,No,29,No
+EMP10331,Male,23,Tax,Analyst,1.3,52676,46,4,No,31,Yes
+EMP10332,Female,21,Advisory,Senior Analyst,5.0,146332,52,4,No,9,Yes
+EMP10333,Male,26,Tax,Manager,1.5,54802,43,3,Yes,50,Yes
+EMP10334,Female,35,Tax,Senior Manager,4.8,115331,55,3,No,7,No
+EMP10335,Female,22,Audit,Manager,1.1,149786,58,3,No,50,Yes
+EMP10336,Male,23,Consulting,Manager,0.2,90169,68,4,Yes,35,Yes
+EMP10337,Male,37,Technology,Analyst,8.1,93147,42,1,No,54,No
+EMP10338,Female,44,Audit,Senior Analyst,1.5,47075,67,5,No,34,Yes
+EMP10339,Female,32,Tax,Senior Analyst,4.7,107015,57,4,No,35,Yes
+EMP10340,Male,38,Technology,Manager,1.0,34304,47,4,No,55,Yes
+EMP10341,Female,35,Audit,Analyst,3.1,154851,48,1,No,35,Yes
+EMP10342,Male,32,Advisory,Analyst,6.2,145729,48,4,No,60,Yes
+EMP10343,Female,36,Consulting,Analyst,0.1,84622,50,3,Yes,61,Yes
+EMP10344,Male,28,Advisory,Senior Analyst,5.3,79215,60,2,Yes,24,No
+EMP10345,Male,34,Audit,Analyst,2.5,98973,60,3,Yes,63,No
+EMP10346,Male,37,Audit,Analyst,2.8,133654,35,4,No,59,Yes
+EMP10347,Female,41,Advisory,Analyst,2.2,168593,66,3,No,56,Yes
+EMP10348,Female,28,Tax,Analyst,6.2,49028,49,3,No,69,No
+EMP10349,Male,35,Tax,Manager,0.1,64328,55,2,No,51,Yes
+EMP10350,Female,34,Consulting,Analyst,0.9,52301,52,4,No,55,Yes
+EMP10351,Male,38,Audit,Senior Analyst,6.3,63015,64,4,No,62,Yes
+EMP10352,Male,40,Advisory,Senior Analyst,4.2,61845,47,4,No,67,Yes
+EMP10353,Female,27,Audit,Manager,0.1,111818,58,3,Yes,19,Yes
+EMP10354,Female,23,Technology,Analyst,2.2,101394,64,3,No,53,No
+EMP10355,Male,32,Tax,Senior Manager,2.3,68714,36,3,No,0,No
+EMP10356,Female,41,Tax,Senior Analyst,1.5,105722,53,3,Yes,9,Yes
+EMP10357,Female,44,Technology,Senior Manager,1.1,50230,59,5,No,22,Yes
+EMP10358,Male,23,Audit,Manager,3.4,117554,48,3,No,50,No
+EMP10359,Male,40,Tax,Analyst,0.7,74262,40,3,Yes,23,Yes
+EMP10360,Female,34,Consulting,Analyst,4.8,66722,46,3,Yes,12,Yes
+EMP10361,Male,35,Technology,Analyst,4.9,87796,54,4,Yes,28,No
+EMP10362,Male,34,Consulting,Senior Analyst,1.6,112052,57,2,No,57,Yes
+EMP10363,Female,27,Tax,Analyst,1.0,125808,64,3,No,42,Yes
+EMP10364,Male,37,Technology,Analyst,1.0,161311,64,4,No,9,Yes
+EMP10365,Male,32,Audit,Senior Analyst,2.0,116951,64,3,No,30,Yes
+EMP10366,Female,40,Consulting,Analyst,3.8,75886,64,4,No,73,No
+EMP10367,Female,24,Tax,Analyst,1.3,128424,68,2,No,13,Yes
+EMP10368,Male,29,Consulting,Analyst,2.8,129697,50,4,No,33,No
+EMP10369,Male,26,Consulting,Analyst,1.4,121299,58,2,No,16,Yes
+EMP10370,Female,36,Audit,Analyst,1.1,174177,48,1,No,20,Yes
+EMP10371,Female,42,Audit,Senior Analyst,0.1,39497,60,4,No,66,Yes
+EMP10372,Female,42,Technology,Senior Analyst,0.0,157888,42,3,No,57,Yes
+EMP10373,Female,41,Advisory,Manager,0.8,143915,48,3,No,78,Yes
+EMP10374,Male,41,Audit,Senior Analyst,1.6,117019,65,3,Yes,7,Yes
+EMP10375,Female,22,Consulting,Senior Analyst,5.7,134017,36,4,Yes,37,No
+EMP10376,Female,44,Consulting,Analyst,4.8,94385,38,3,No,25,No
+EMP10377,Male,28,Audit,Manager,0.9,130153,35,5,Yes,63,No
+EMP10378,Female,31,Consulting,Manager,0.8,58826,54,5,No,29,No
+EMP10379,Male,33,Consulting,Manager,0.8,135034,48,4,No,8,Yes
+EMP10380,Female,37,Consulting,Senior Analyst,1.2,109242,59,3,Yes,31,Yes
+EMP10381,Female,28,Tax,Analyst,2.1,148066,59,3,Yes,10,Yes
+EMP10382,Female,41,Audit,Analyst,1.7,75100,37,4,Yes,33,Yes
+EMP10383,Male,38,Advisory,Analyst,0.7,150170,39,2,Yes,17,No
+EMP10384,Male,38,Advisory,Manager,0.4,160431,60,3,No,18,Yes
+EMP10385,Female,34,Advisory,Senior Analyst,0.0,121205,38,2,No,53,Yes
+EMP10386,Male,35,Advisory,Senior Analyst,0.5,37809,41,2,No,36,Yes
+EMP10387,Male,26,Consulting,Analyst,3.7,89450,64,2,No,11,Yes
+EMP10388,Male,31,Technology,Manager,0.8,63428,64,3,No,3,Yes
+EMP10389,Male,33,Advisory,Analyst,1.9,97790,53,4,No,42,Yes
+EMP10390,Male,21,Consulting,Analyst,2.7,136126,69,3,No,26,Yes
+EMP10391,Male,26,Tax,Analyst,6.5,115321,67,3,No,50,Yes
+EMP10392,Female,29,Advisory,Senior Analyst,6.6,27093,67,2,Yes,4,Yes
+EMP10393,Female,28,Consulting,Senior Analyst,4.1,69498,48,3,Yes,5,Yes
+EMP10394,Male,31,Audit,Manager,0.1,141251,44,3,Yes,76,Yes
+EMP10395,Female,42,Audit,Analyst,2.6,65985,62,4,Yes,55,Yes
+EMP10396,Female,39,Technology,Senior Analyst,4.6,57009,48,5,No,67,No
+EMP10397,Female,44,Tax,Senior Analyst,0.1,153515,50,2,Yes,43,Yes
+EMP10398,Female,29,Technology,Analyst,2.4,42718,55,3,No,14,Yes
+EMP10399,Male,37,Advisory,Manager,5.9,41705,62,3,No,41,Yes
+EMP10400,Female,32,Consulting,Manager,1.9,112618,67,5,No,10,Yes
+EMP10401,Female,34,Audit,Senior Analyst,0.0,87598,40,4,No,72,Yes
+EMP10402,Male,35,Advisory,Manager,0.0,102878,49,4,Yes,10,Yes
+EMP10403,Male,36,Advisory,Senior Analyst,1.6,37239,37,3,No,65,Yes
+EMP10404,Female,42,Technology,Analyst,0.5,71622,69,5,Yes,26,Yes
+EMP10405,Female,42,Audit,Senior Analyst,3.3,71665,48,2,No,57,No
+EMP10406,Female,40,Consulting,Analyst,3.7,57274,36,2,No,71,Yes
+EMP10407,Female,21,Advisory,Analyst,0.6,167491,63,4,No,20,Yes
+EMP10408,Female,30,Advisory,Analyst,6.6,133368,38,5,No,20,No
+EMP10409,Female,28,Advisory,Senior Analyst,1.7,171075,60,2,No,71,Yes
+EMP10410,Male,38,Tax,Senior Analyst,0.5,178060,46,2,Yes,0,Yes
+EMP10411,Female,21,Audit,Analyst,4.3,133563,36,1,Yes,57,No
+EMP10412,Female,22,Tax,Senior Analyst,4.7,161746,51,2,No,12,No
+EMP10413,Male,21,Advisory,Manager,3.1,118103,69,3,No,72,Yes
+EMP10414,Male,21,Technology,Analyst,5.8,91446,44,5,No,5,Yes
+EMP10415,Male,29,Tax,Analyst,4.0,54072,56,4,Yes,57,No
+EMP10416,Male,33,Consulting,Manager,6.4,58717,55,4,No,16,Yes
+EMP10417,Female,21,Consulting,Analyst,1.7,142202,49,4,No,72,Yes
+EMP10418,Female,33,Technology,Senior Analyst,4.1,147389,69,3,No,11,No
+EMP10419,Female,40,Consulting,Analyst,24.9,134525,55,4,No,51,No
+EMP10420,Female,42,Technology,Senior Analyst,3.9,29646,55,3,No,75,Yes
+EMP10421,Female,27,Audit,Senior Analyst,0.4,64713,55,3,Yes,69,Yes
+EMP10422,Female,22,Advisory,Senior Analyst,2.2,92936,66,3,No,72,Yes
+EMP10423,Male,26,Tax,Manager,2.7,47185,39,3,Yes,51,Yes
+EMP10424,Female,27,Technology,Manager,0.6,109263,43,4,Yes,36,Yes
+EMP10425,Male,34,Consulting,Manager,9.9,77107,52,5,No,2,Yes
+EMP10426,Male,38,Tax,Senior Analyst,0.6,42563,55,3,No,7,Yes
+EMP10427,Female,35,Consulting,Analyst,0.6,95729,42,4,No,9,Yes
+EMP10428,Male,22,Audit,Senior Analyst,7.4,40701,68,2,No,46,Yes
+EMP10429,Female,30,Advisory,Analyst,1.9,153331,44,4,No,40,Yes
+EMP10430,Male,43,Advisory,Manager,0.2,124280,58,3,Yes,63,Yes
+EMP10431,Female,32,Technology,Analyst,2.7,63665,58,1,No,41,Yes
+EMP10432,Male,37,Consulting,Senior Analyst,2.8,40957,66,3,Yes,42,Yes
+EMP10433,Female,28,Audit,Analyst,0.2,71008,67,4,No,8,Yes
+EMP10434,Female,31,Audit,Manager,10.8,86920,68,2,No,13,Yes
+EMP10435,Female,23,Consulting,Manager,2.4,138828,45,5,No,3,Yes
+EMP10436,Female,26,Consulting,Analyst,2.5,148852,65,2,No,1,No
+EMP10437,Female,29,Tax,Manager,2.2,157698,52,5,Yes,0,Yes
+EMP10438,Male,26,Consulting,Analyst,2.8,115815,57,4,No,74,No
+EMP10439,Male,29,Technology,Senior Analyst,0.9,63311,56,3,Yes,64,Yes
+EMP10440,Male,27,Technology,Manager,1.0,57356,52,3,Yes,45,Yes
+EMP10441,Female,29,Advisory,Analyst,2.1,28809,54,4,Yes,58,No
+EMP10442,Male,38,Technology,Senior Manager,4.9,59875,47,4,No,74,No
+EMP10443,Female,32,Tax,Analyst,0.2,34465,35,4,No,6,Yes
+EMP10444,Female,28,Consulting,Analyst,2.8,98844,38,3,No,65,Yes
+EMP10445,Male,28,Audit,Manager,4.9,111889,58,3,No,14,No
+EMP10446,Male,38,Consulting,Analyst,0.5,40250,36,5,No,71,Yes
+EMP10447,Female,40,Advisory,Senior Manager,0.0,71023,62,3,No,46,Yes
+EMP10448,Male,35,Technology,Senior Manager,1.1,126350,60,3,No,39,Yes
+EMP10449,Female,27,Consulting,Analyst,2.7,41427,57,3,No,41,Yes
+EMP10450,Female,31,Technology,Senior Analyst,0.4,96643,49,4,No,50,Yes
+EMP10451,Female,40,Advisory,Analyst,1.7,159511,61,4,Yes,34,Yes
+EMP10452,Female,36,Audit,Analyst,2.4,103672,40,3,No,40,No
+EMP10453,Female,24,Technology,Analyst,2.7,42300,69,2,No,56,No
+EMP10454,Male,26,Consulting,Analyst,1.0,85289,69,1,Yes,37,Yes
+EMP10455,Male,42,Consulting,Analyst,1.5,173254,44,3,No,71,Yes
+EMP10456,Female,23,Advisory,Analyst,4.5,44659,64,3,Yes,7,No
+EMP10457,Female,29,Audit,Senior Manager,8.5,35360,63,5,Yes,73,Yes
+EMP10458,Male,30,Advisory,Manager,5.9,46424,38,3,Yes,62,No
+EMP10459,Male,34,Consulting,Senior Analyst,2.5,123035,39,3,No,3,Yes
+EMP10460,Female,31,Consulting,Senior Analyst,1.6,73791,38,4,No,47,Yes
+EMP10461,Male,38,Technology,Manager,1.2,159137,50,3,No,51,Yes
+EMP10462,Female,42,Consulting,Analyst,0.4,37300,59,3,Yes,37,Yes
+EMP10463,Male,32,Audit,Senior Analyst,0.3,58370,48,2,No,4,Yes
+EMP10464,Female,43,Consulting,Senior Manager,3.5,52209,45,3,No,69,Yes
+EMP10465,Male,32,Technology,Analyst,0.9,45927,63,5,Yes,23,Yes
+EMP10466,Female,33,Audit,Senior Analyst,0.9,59579,68,3,No,76,Yes
+EMP10467,Male,33,Audit,Manager,19.0,34032,56,3,Yes,16,Yes
+EMP10468,Male,39,Audit,Manager,0.6,118254,48,4,Yes,77,No
+EMP10469,Female,39,Audit,Senior Analyst,0.5,103413,58,5,No,25,Yes
+EMP10470,Male,43,Tax,Analyst,0.3,138528,60,3,No,2,Yes
+EMP10471,Female,34,Tax,Analyst,2.6,148916,50,3,Yes,1,Yes
+EMP10472,Male,24,Consulting,Analyst,3.0,97302,66,5,Yes,1,Yes
+EMP10473,Female,33,Advisory,Manager,1.4,110757,40,2,Yes,21,Yes
+EMP10474,Male,28,Consulting,Analyst,2.3,40932,68,4,Yes,70,Yes
+EMP10475,Female,43,Technology,Manager,4.7,50714,42,4,Yes,3,No
+EMP10476,Male,41,Technology,Analyst,5.1,82803,64,4,No,37,Yes
+EMP10477,Female,43,Consulting,Analyst,9.5,158624,61,3,No,69,Yes
+EMP10478,Male,39,Technology,Senior Analyst,5.2,81627,41,3,No,72,Yes
+EMP10479,Female,32,Tax,Senior Analyst,2.5,104810,61,4,No,51,Yes
+EMP10480,Female,38,Consulting,Analyst,0.6,70380,59,3,No,30,Yes
+EMP10481,Female,26,Audit,Analyst,0.3,89686,49,3,Yes,25,Yes
+EMP10482,Male,38,Consulting,Senior Analyst,0.2,145321,59,2,Yes,35,Yes
+EMP10483,Female,39,Tax,Analyst,3.3,70028,56,1,No,25,Yes
+EMP10484,Male,42,Technology,Analyst,4.9,171367,52,5,Yes,27,Yes
+EMP10485,Female,25,Tax,Manager,2.1,138141,46,3,Yes,4,No
+EMP10486,Male,44,Technology,Senior Analyst,0.2,80248,57,5,Yes,73,Yes
+EMP10487,Female,29,Advisory,Analyst,2.3,35523,59,2,No,17,Yes
+EMP10488,Male,23,Tax,Manager,8.2,70530,44,3,No,14,No
+EMP10489,Male,30,Tax,Senior Manager,2.7,38769,64,3,No,56,Yes
+EMP10490,Female,39,Consulting,Senior Analyst,5.0,137035,44,4,No,4,No
+EMP10491,Male,23,Advisory,Senior Analyst,4.8,104782,68,4,No,36,Yes
+EMP10492,Male,42,Tax,Manager,8.1,103382,47,2,No,21,Yes
+EMP10493,Female,35,Audit,Senior Manager,4.4,135939,63,5,Yes,51,Yes
+EMP10494,Male,21,Tax,Manager,4.1,169542,43,2,Yes,14,No
+EMP10495,Male,27,Audit,Analyst,0.8,103712,47,4,Yes,16,Yes
+EMP10496,Male,32,Consulting,Senior Analyst,0.2,143643,48,5,Yes,50,Yes
+EMP10497,Female,37,Tax,Senior Analyst,2.2,132417,43,4,Yes,44,Yes
+EMP10498,Male,41,Consulting,Analyst,0.4,162877,42,5,Yes,62,Yes
+EMP10499,Female,44,Audit,Analyst,9.8,153256,37,3,No,27,Yes
+EMP10500,Male,40,Consulting,Manager,1.0,126422,67,2,No,58,Yes
+EMP10501,Male,25,Technology,Senior Analyst,5.8,114300,66,2,No,20,Yes
+EMP10502,Male,24,Audit,Analyst,1.5,31630,41,3,No,41,Yes
+EMP10503,Female,32,Technology,Senior Analyst,1.2,149474,53,4,No,68,No
+EMP10504,Male,40,Audit,Analyst,8.2,123869,68,2,No,16,Yes
+EMP10505,Male,44,Technology,Analyst,1.4,40701,48,4,No,67,Yes
+EMP10506,Female,38,Technology,Manager,1.5,170931,53,3,Yes,6,Yes
+EMP10507,Male,37,Consulting,Analyst,0.3,177255,60,3,Yes,39,Yes
+EMP10508,Female,39,Consulting,Analyst,3.3,122285,51,4,No,39,Yes
+EMP10509,Female,29,Consulting,Senior Manager,1.0,142556,62,3,No,42,Yes
+EMP10510,Male,24,Advisory,Analyst,2.6,40021,53,4,Yes,72,No
+EMP10511,Female,41,Audit,Analyst,2.7,89361,61,2,Yes,50,No
+EMP10512,Male,22,Audit,Senior Manager,3.8,157317,53,4,No,72,No
+EMP10513,Female,24,Audit,Senior Analyst,4.1,35355,67,2,Yes,22,Yes
+EMP10514,Female,22,Consulting,Senior Analyst,2.2,123841,41,2,No,31,No
+EMP10515,Male,35,Consulting,Manager,1.2,42198,63,4,Yes,30,Yes
+EMP10516,Female,22,Advisory,Analyst,5.5,91951,39,4,No,16,Yes
+EMP10517,Female,24,Technology,Senior Analyst,1.1,157724,64,3,Yes,57,Yes
+EMP10518,Female,26,Consulting,Senior Analyst,2.1,43740,42,3,No,34,Yes
+EMP10519,Female,27,Advisory,Manager,1.5,28810,46,3,Yes,29,Yes
+EMP10520,Female,30,Consulting,Senior Analyst,5.8,148743,47,3,No,63,No
+EMP10521,Male,39,Tax,Senior Analyst,1.7,172641,60,4,No,52,Yes
+EMP10522,Female,39,Technology,Senior Analyst,1.5,124855,52,4,No,50,Yes
+EMP10523,Male,42,Technology,Senior Analyst,3.5,51783,54,2,No,36,No
+EMP10524,Female,32,Technology,Manager,2.8,146701,50,3,No,5,Yes
+EMP10525,Male,23,Audit,Senior Analyst,0.3,103047,37,4,No,33,Yes
+EMP10526,Male,33,Tax,Senior Analyst,2.1,34471,61,3,No,55,Yes
+EMP10527,Female,38,Tax,Senior Analyst,4.0,135771,49,4,No,24,No
+EMP10528,Female,28,Audit,Senior Analyst,14.5,31163,68,2,No,12,Yes
+EMP10529,Female,41,Technology,Senior Analyst,3.0,87071,56,4,Yes,62,Yes
+EMP10530,Male,35,Audit,Manager,1.4,41065,57,2,No,65,Yes
+EMP10531,Female,21,Advisory,Senior Analyst,0.8,147323,38,4,No,4,No
+EMP10532,Male,23,Audit,Manager,6.2,142969,57,3,No,74,Yes
+EMP10533,Male,28,Consulting,Manager,5.1,108456,43,3,No,10,Yes
+EMP10534,Male,24,Tax,Senior Analyst,0.8,44154,58,4,No,77,Yes
+EMP10535,Female,36,Advisory,Senior Analyst,0.7,130703,55,2,No,43,Yes
+EMP10536,Female,43,Consulting,Manager,3.8,45229,50,3,No,68,Yes
+EMP10537,Male,30,Consulting,Senior Analyst,1.1,77587,59,3,No,1,Yes
+EMP10538,Male,32,Tax,Manager,1.1,74713,60,3,No,39,Yes
+EMP10539,Female,34,Audit,Senior Analyst,0.5,46101,43,5,No,36,Yes
+EMP10540,Male,34,Consulting,Senior Analyst,0.9,65391,49,4,No,48,Yes
+EMP10541,Female,22,Technology,Analyst,1.7,97723,67,2,No,74,Yes
+EMP10542,Male,43,Tax,Analyst,4.0,125264,35,4,No,35,Yes
+EMP10543,Female,25,Consulting,Senior Manager,1.2,62921,39,3,No,74,Yes
+EMP10544,Male,25,Tax,Senior Analyst,1.2,53460,43,5,Yes,72,Yes
+EMP10545,Female,26,Tax,Senior Analyst,1.0,177143,40,3,No,69,Yes
+EMP10546,Male,33,Technology,Manager,2.0,116725,62,3,No,33,Yes
+EMP10547,Female,29,Consulting,Senior Analyst,0.6,83445,60,3,Yes,57,Yes
+EMP10548,Female,42,Audit,Senior Analyst,2.0,107208,62,3,Yes,36,No
+EMP10549,Male,35,Consulting,Manager,3.7,131283,49,3,No,59,Yes
+EMP10550,Male,34,Consulting,Senior Analyst,0.1,110779,40,3,No,11,Yes
+EMP10551,Female,44,Advisory,Analyst,0.0,28060,61,4,No,31,Yes
+EMP10552,Male,27,Audit,Senior Analyst,0.2,150806,38,3,No,3,Yes
+EMP10553,Female,40,Advisory,Senior Analyst,2.3,38731,45,5,No,32,Yes
+EMP10554,Male,22,Consulting,Analyst,5.8,102830,55,3,No,42,Yes
+EMP10555,Female,27,Consulting,Senior Analyst,0.0,140871,64,4,Yes,8,Yes
+EMP10556,Female,26,Technology,Analyst,8.3,45719,52,5,No,50,No
+EMP10557,Female,37,Consulting,Analyst,0.3,74116,69,4,Yes,19,Yes
+EMP10558,Female,22,Audit,Analyst,5.5,51325,37,4,No,38,Yes
+EMP10559,Female,23,Tax,Analyst,2.0,178669,46,4,No,22,Yes
+EMP10560,Female,25,Audit,Senior Analyst,3.2,39551,61,3,No,40,Yes
+EMP10561,Male,25,Tax,Manager,2.1,118287,64,4,No,43,No
+EMP10562,Male,21,Tax,Senior Analyst,1.9,49278,55,2,Yes,34,Yes
+EMP10563,Male,28,Consulting,Analyst,5.4,40141,55,3,No,22,No
+EMP10564,Female,32,Tax,Analyst,4.2,92913,49,3,Yes,57,Yes
+EMP10565,Female,44,Consulting,Analyst,2.0,58615,52,4,Yes,47,Yes
+EMP10566,Female,24,Consulting,Senior Analyst,0.4,147058,63,3,No,57,Yes
+EMP10567,Female,33,Audit,Analyst,0.4,137684,55,3,Yes,56,Yes
+EMP10568,Male,43,Consulting,Senior Analyst,4.9,52452,51,3,No,38,No
+EMP10569,Male,35,Technology,Analyst,2.3,178797,52,5,No,27,Yes
+EMP10570,Female,31,Consulting,Manager,2.0,75391,46,2,Yes,63,Yes
+EMP10571,Male,30,Consulting,Analyst,3.4,145288,45,1,Yes,61,Yes
+EMP10572,Male,23,Consulting,Analyst,5.9,138535,54,3,No,61,Yes
+EMP10573,Female,42,Advisory,Manager,3.0,167770,43,5,No,25,Yes
+EMP10574,Male,34,Audit,Analyst,4.3,111711,35,5,No,50,Yes
+EMP10575,Female,36,Consulting,Analyst,4.3,102850,37,4,No,49,No
+EMP10576,Male,30,Tax,Senior Analyst,1.3,134733,55,4,No,35,Yes
+EMP10577,Female,30,Audit,Senior Analyst,1.0,27365,57,3,No,25,Yes
+EMP10578,Female,32,Audit,Senior Analyst,4.8,122662,43,5,Yes,32,No
+EMP10579,Female,29,Audit,Analyst,1.4,68372,53,2,No,67,Yes
+EMP10580,Female,21,Consulting,Analyst,7.0,69134,53,2,No,72,Yes
+EMP10581,Male,25,Technology,Analyst,0.2,62823,57,2,No,7,Yes
+EMP10582,Female,40,Audit,Analyst,0.2,96158,61,3,No,65,Yes
+EMP10583,Female,28,Audit,Manager,7.9,121076,61,4,No,22,Yes
+EMP10584,Female,31,Consulting,Senior Analyst,3.1,158021,46,3,Yes,69,No
+EMP10585,Male,32,Tax,Analyst,1.4,74396,61,5,No,54,Yes
+EMP10586,Female,21,Advisory,Senior Analyst,4.2,133336,68,3,No,42,Yes
+EMP10587,Male,42,Consulting,Analyst,3.3,56912,67,2,No,20,Yes
+EMP10588,Female,40,Tax,Manager,2.3,81947,62,3,Yes,21,Yes
+EMP10589,Male,31,Advisory,Analyst,0.3,69387,65,4,No,8,Yes
+EMP10590,Male,25,Technology,Analyst,5.0,41508,66,4,No,33,No
+EMP10591,Female,35,Tax,Senior Analyst,6.0,70592,54,3,No,58,Yes
+EMP10592,Male,25,Consulting,Senior Analyst,0.6,134249,69,3,Yes,25,Yes
+EMP10593,Female,32,Consulting,Senior Analyst,5.7,26919,65,3,No,0,Yes
+EMP10594,Female,25,Audit,Analyst,6.3,67595,65,4,Yes,4,Yes
+EMP10595,Female,37,Consulting,Analyst,2.4,165689,56,5,No,40,Yes
+EMP10596,Male,37,Technology,Senior Analyst,3.2,58298,43,1,No,62,No
+EMP10597,Male,44,Consulting,Analyst,1.4,163001,43,4,Yes,21,Yes
+EMP10598,Female,32,Audit,Manager,1.0,39456,49,3,No,67,Yes
+EMP10599,Female,44,Tax,Analyst,3.8,134599,47,3,No,47,No
+EMP10600,Male,35,Consulting,Senior Analyst,5.9,111676,56,5,No,65,Yes
+EMP10601,Female,35,Audit,Senior Analyst,3.2,108721,50,3,No,15,No
+EMP10602,Female,26,Consulting,Analyst,2.1,62924,66,3,No,79,No
+EMP10603,Female,32,Consulting,Senior Analyst,0.5,49240,36,2,No,52,Yes
+EMP10604,Male,40,Tax,Manager,0.2,112381,60,3,No,64,Yes
+EMP10605,Male,38,Audit,Analyst,1.8,34228,48,4,No,78,Yes
+EMP10606,Male,34,Consulting,Manager,0.2,46686,68,4,No,63,Yes
+EMP10607,Female,22,Consulting,Senior Analyst,2.5,36920,42,5,Yes,67,Yes
+EMP10608,Female,29,Consulting,Analyst,1.4,32432,55,3,No,62,Yes
+EMP10609,Female,25,Advisory,Analyst,4.2,135507,62,2,No,61,Yes
+EMP10610,Male,40,Consulting,Analyst,1.1,155509,40,1,No,70,Yes
+EMP10611,Female,21,Consulting,Senior Analyst,2.7,96725,54,3,No,44,Yes
+EMP10612,Female,43,Technology,Manager,2.3,146764,65,5,No,51,Yes
+EMP10613,Female,23,Advisory,Manager,0.0,84099,67,4,No,73,Yes
+EMP10614,Female,26,Audit,Senior Manager,0.2,137557,41,3,No,64,Yes
+EMP10615,Male,25,Advisory,Manager,1.0,111760,42,4,No,1,Yes
+EMP10616,Male,41,Tax,Senior Analyst,6.4,43013,43,4,Yes,48,No
+EMP10617,Female,25,Tax,Analyst,0.5,46446,36,1,No,21,Yes
+EMP10618,Male,21,Audit,Senior Analyst,3.7,130209,51,4,No,28,Yes
+EMP10619,Male,37,Technology,Analyst,10.9,127261,51,3,No,34,No
+EMP10620,Female,39,Consulting,Senior Analyst,4.7,120739,69,2,No,75,No
+EMP10621,Female,34,Audit,Analyst,0.8,25557,64,3,Yes,23,Yes
+EMP10622,Male,32,Audit,Analyst,7.2,155878,40,3,Yes,29,No
+EMP10623,Female,30,Audit,Analyst,0.3,124143,38,3,No,41,Yes
+EMP10624,Male,40,Tax,Analyst,1.9,49578,69,3,No,70,Yes
+EMP10625,Female,41,Audit,Senior Analyst,6.6,99779,43,2,No,49,Yes
+EMP10626,Male,38,Audit,Senior Analyst,3.1,165668,40,4,No,70,Yes
+EMP10627,Female,44,Technology,Senior Analyst,1.6,82500,47,5,Yes,59,Yes
+EMP10628,Male,31,Consulting,Senior Analyst,1.0,97534,56,4,Yes,29,Yes
+EMP10629,Male,22,Audit,Senior Analyst,1.4,35129,62,3,No,11,Yes
+EMP10630,Male,38,Audit,Analyst,2.1,36596,64,3,No,48,Yes
+EMP10631,Female,27,Audit,Analyst,1.2,90355,36,3,No,45,No
+EMP10632,Male,44,Audit,Senior Analyst,10.4,37974,42,2,No,42,Yes
+EMP10633,Male,35,Advisory,Senior Analyst,8.1,137004,43,3,No,1,Yes
+EMP10634,Female,31,Audit,Analyst,6.1,151794,35,4,Yes,74,No
+EMP10635,Female,38,Audit,Analyst,1.6,95202,47,4,No,79,Yes
+EMP10636,Male,43,Tax,Analyst,3.5,99442,49,4,No,53,Yes
+EMP10637,Male,32,Advisory,Senior Analyst,7.0,177890,66,3,Yes,34,Yes
+EMP10638,Female,26,Consulting,Analyst,5.7,80598,68,3,No,51,No
+EMP10639,Female,40,Consulting,Senior Analyst,1.6,158726,65,4,No,32,Yes
+EMP10640,Female,43,Consulting,Manager,0.4,58758,48,3,No,71,Yes
+EMP10641,Female,33,Consulting,Analyst,0.2,49204,48,3,No,50,No
+EMP10642,Female,40,Consulting,Senior Manager,2.6,152309,63,3,No,25,No
+EMP10643,Male,36,Consulting,Senior Analyst,3.1,55552,53,3,Yes,61,No
+EMP10644,Female,38,Technology,Senior Analyst,5.7,166408,61,2,Yes,60,No
+EMP10645,Male,30,Audit,Senior Analyst,1.0,72037,43,4,Yes,25,No
+EMP10646,Male,43,Tax,Senior Analyst,0.5,172278,62,4,No,36,Yes
+EMP10647,Male,28,Audit,Senior Analyst,1.4,59831,58,3,Yes,29,Yes
+EMP10648,Female,38,Tax,Analyst,1.3,68563,62,2,No,10,Yes
+EMP10649,Male,41,Advisory,Analyst,0.4,43361,52,4,Yes,52,Yes
+EMP10650,Male,21,Tax,Analyst,3.3,66335,59,3,No,40,Yes
+EMP10651,Female,43,Audit,Analyst,2.1,99469,69,3,Yes,4,No
+EMP10652,Male,28,Advisory,Analyst,3.8,50816,38,2,No,65,Yes
+EMP10653,Male,26,Consulting,Analyst,1.3,171691,48,3,Yes,12,No
+EMP10654,Female,25,Tax,Analyst,1.2,117479,60,4,No,62,Yes
+EMP10655,Male,35,Consulting,Senior Analyst,1.9,51819,42,4,No,24,Yes
+EMP10656,Male,42,Consulting,Manager,6.3,167813,58,3,No,43,No
+EMP10657,Male,35,Consulting,Manager,0.1,147330,50,3,Yes,13,No
+EMP10658,Female,22,Consulting,Senior Analyst,4.9,33798,54,2,Yes,68,Yes
+EMP10659,Female,21,Consulting,Senior Analyst,1.4,74695,49,2,No,58,Yes
+EMP10660,Female,43,Audit,Manager,5.8,154544,41,5,No,55,Yes
+EMP10661,Male,43,Technology,Analyst,4.9,177254,51,4,No,51,Yes
+EMP10662,Male,31,Tax,Analyst,1.3,34415,56,3,No,65,Yes
+EMP10663,Female,30,Technology,Manager,3.6,167157,56,4,No,67,Yes
+EMP10664,Male,38,Audit,Senior Analyst,0.5,171080,46,4,No,11,Yes
+EMP10665,Male,38,Technology,Senior Analyst,6.8,112638,52,4,No,74,Yes
+EMP10666,Female,37,Tax,Analyst,1.6,43452,49,1,No,67,Yes
+EMP10667,Female,28,Advisory,Analyst,1.8,164192,50,2,Yes,42,No
+EMP10668,Male,35,Advisory,Manager,3.7,135205,39,4,No,72,Yes
+EMP10669,Male,28,Consulting,Senior Analyst,5.2,43170,36,3,Yes,73,Yes
+EMP10670,Male,37,Tax,Analyst,0.8,41259,62,5,No,5,Yes
+EMP10671,Female,32,Consulting,Analyst,3.2,47099,61,4,No,14,Yes
+EMP10672,Female,28,Audit,Senior Analyst,1.5,165721,65,5,No,41,Yes
+EMP10673,Female,34,Consulting,Senior Analyst,1.4,154394,35,3,No,30,Yes
+EMP10674,Female,24,Technology,Analyst,3.5,84258,63,4,No,52,Yes
+EMP10675,Male,21,Technology,Manager,1.5,36805,35,3,No,5,Yes
+EMP10676,Female,21,Technology,Analyst,1.3,68147,42,5,No,32,Yes
+EMP10677,Female,39,Advisory,Analyst,5.4,99280,50,2,Yes,28,Yes
+EMP10678,Female,36,Audit,Senior Analyst,0.3,131777,62,3,Yes,20,Yes
+EMP10679,Female,34,Audit,Analyst,3.4,122841,56,4,No,53,Yes
+EMP10680,Female,41,Audit,Manager,0.9,149726,52,3,Yes,55,No
+EMP10681,Male,36,Audit,Senior Analyst,0.0,153359,56,3,No,20,Yes
+EMP10682,Male,25,Consulting,Manager,0.5,101215,46,5,No,54,Yes
+EMP10683,Female,29,Audit,Analyst,2.8,137909,53,3,No,57,No
+EMP10684,Male,22,Consulting,Analyst,3.7,120365,59,4,No,63,Yes
+EMP10685,Female,38,Technology,Analyst,0.1,35985,39,2,No,45,Yes
+EMP10686,Female,26,Consulting,Senior Analyst,0.1,37391,68,4,No,21,Yes
+EMP10687,Male,29,Technology,Senior Analyst,7.0,29861,44,4,No,59,Yes
+EMP10688,Male,21,Advisory,Manager,0.2,59364,41,3,Yes,10,Yes
+EMP10689,Female,29,Audit,Senior Analyst,6.7,107399,49,1,No,46,No
+EMP10690,Female,36,Consulting,Manager,0.8,67923,58,3,No,30,Yes
+EMP10691,Female,33,Audit,Senior Analyst,4.0,163991,60,1,No,76,Yes
+EMP10692,Male,29,Consulting,Analyst,1.1,110818,60,1,No,17,Yes
+EMP10693,Female,41,Advisory,Analyst,5.9,96160,60,4,No,21,Yes
+EMP10694,Female,33,Audit,Senior Analyst,3.6,153165,44,2,No,55,No
+EMP10695,Female,29,Audit,Analyst,1.5,164248,51,2,No,16,Yes
+EMP10696,Male,31,Consulting,Analyst,0.2,58529,48,4,No,37,Yes
+EMP10697,Female,24,Technology,Senior Analyst,4.0,169013,36,2,Yes,24,No
+EMP10698,Female,22,Tax,Manager,2.9,26669,47,3,No,31,Yes
+EMP10699,Male,26,Tax,Analyst,0.0,142373,61,2,No,14,Yes
+EMP10700,Female,34,Audit,Manager,0.0,69859,43,3,Yes,12,Yes
+EMP10701,Female,24,Tax,Manager,5.0,80786,41,4,No,57,Yes
+EMP10702,Male,26,Tax,Senior Analyst,0.9,45323,44,4,Yes,49,Yes
+EMP10703,Female,39,Advisory,Analyst,3.0,31021,43,3,No,10,Yes
+EMP10704,Male,26,Technology,Analyst,1.8,64807,56,2,No,12,Yes
+EMP10705,Male,22,Consulting,Senior Analyst,6.0,153305,57,2,No,49,Yes
+EMP10706,Female,38,Technology,Senior Analyst,7.5,75355,41,3,No,37,Yes
+EMP10707,Female,33,Technology,Manager,17.2,138415,43,5,Yes,0,No
+EMP10708,Female,29,Audit,Senior Analyst,0.5,33711,61,3,Yes,38,Yes
+EMP10709,Female,43,Consulting,Analyst,6.0,32904,58,3,No,26,Yes
+EMP10710,Male,39,Technology,Analyst,0.9,89033,63,2,No,35,Yes
+EMP10711,Female,33,Audit,Senior Analyst,2.7,111478,51,4,No,31,No
+EMP10712,Male,31,Consulting,Analyst,2.1,145035,54,4,No,40,Yes
+EMP10713,Female,21,Technology,Analyst,0.1,28093,41,4,No,14,Yes
+EMP10714,Female,44,Advisory,Senior Analyst,8.1,49918,41,4,No,30,No
+EMP10715,Female,42,Audit,Analyst,0.2,165466,62,3,No,5,Yes
+EMP10716,Male,27,Advisory,Analyst,3.5,149501,53,2,Yes,51,Yes
+EMP10717,Female,41,Audit,Analyst,4.6,117510,54,3,No,21,Yes
+EMP10718,Female,35,Consulting,Analyst,4.8,118708,41,4,No,30,No
+EMP10719,Female,21,Audit,Analyst,0.4,122819,40,4,Yes,72,Yes
+EMP10720,Female,32,Advisory,Senior Analyst,1.8,169352,59,3,No,45,Yes
+EMP10721,Male,27,Consulting,Manager,5.3,61303,47,4,No,66,No
+EMP10722,Female,35,Tax,Analyst,1.1,52453,56,4,No,42,Yes
+EMP10723,Male,41,Advisory,Manager,1.9,133886,51,4,No,0,No
+EMP10724,Male,39,Consulting,Analyst,1.0,85695,56,3,Yes,43,Yes
+EMP10725,Male,21,Advisory,Senior Analyst,1.9,158412,68,4,No,56,Yes
+EMP10726,Male,37,Audit,Manager,6.6,63057,42,3,Yes,8,No
+EMP10727,Male,37,Advisory,Senior Analyst,1.8,156669,52,4,No,4,No
+EMP10728,Male,23,Audit,Manager,2.4,119655,58,5,No,78,No
+EMP10729,Female,32,Technology,Analyst,1.6,40025,36,3,No,8,Yes
+EMP10730,Male,26,Audit,Analyst,1.8,32145,36,4,Yes,44,Yes
+EMP10731,Male,31,Consulting,Manager,0.0,126206,61,4,No,76,Yes
+EMP10732,Male,23,Advisory,Analyst,1.0,66723,48,2,No,23,Yes
+EMP10733,Female,28,Consulting,Analyst,1.7,98230,46,3,No,73,Yes
+EMP10734,Female,34,Audit,Senior Analyst,3.0,160902,66,2,No,41,No
+EMP10735,Male,34,Advisory,Manager,1.8,179824,62,5,Yes,21,Yes
+EMP10736,Female,30,Advisory,Manager,1.2,133138,62,4,No,59,Yes
+EMP10737,Male,22,Tax,Analyst,1.5,87040,59,2,No,36,Yes
+EMP10738,Male,34,Consulting,Manager,0.8,133668,38,2,No,38,Yes
+EMP10739,Female,29,Advisory,Analyst,7.8,80030,60,3,No,73,Yes
+EMP10740,Male,23,Consulting,Analyst,2.2,81815,37,3,No,73,Yes
+EMP10741,Female,41,Advisory,Senior Analyst,0.0,137789,35,1,No,52,Yes
+EMP10742,Female,28,Advisory,Analyst,0.1,82923,51,3,No,27,Yes
+EMP10743,Male,36,Consulting,Analyst,10.8,92904,41,3,Yes,76,Yes
+EMP10744,Male,22,Audit,Senior Analyst,0.8,102088,39,2,Yes,14,Yes
+EMP10745,Female,26,Audit,Analyst,4.9,30608,53,4,No,59,Yes
+EMP10746,Male,41,Audit,Analyst,0.2,70667,68,5,Yes,59,Yes
+EMP10747,Male,32,Audit,Analyst,7.6,80547,69,4,No,5,Yes
+EMP10748,Male,25,Consulting,Senior Analyst,6.2,178557,50,4,No,51,Yes
+EMP10749,Female,22,Advisory,Senior Analyst,2.5,165934,61,3,No,11,Yes
+EMP10750,Female,36,Audit,Manager,0.0,153391,59,3,No,18,Yes
+EMP10751,Male,25,Technology,Manager,0.9,100948,60,3,No,74,Yes
+EMP10752,Female,35,Audit,Senior Analyst,1.6,96880,48,4,Yes,1,Yes
+EMP10753,Female,32,Tax,Manager,1.8,82560,48,5,No,54,Yes
+EMP10754,Female,24,Advisory,Analyst,1.1,140063,48,4,Yes,14,No
+EMP10755,Female,35,Consulting,Analyst,0.1,119218,59,4,No,63,Yes
+EMP10756,Female,31,Audit,Manager,2.7,139462,38,4,No,68,Yes
+EMP10757,Male,36,Advisory,Analyst,2.2,175395,49,3,No,14,No
+EMP10758,Male,43,Consulting,Senior Manager,1.0,42997,66,3,No,42,Yes
+EMP10759,Male,26,Technology,Senior Analyst,0.1,146266,52,2,No,73,No
+EMP10760,Female,34,Consulting,Manager,15.7,28679,48,1,No,16,No
+EMP10761,Female,38,Technology,Analyst,2.0,65308,35,4,No,23,Yes
+EMP10762,Male,32,Audit,Analyst,4.2,30695,54,3,No,73,Yes
+EMP10763,Female,31,Tax,Analyst,1.8,83499,44,3,No,29,Yes
+EMP10764,Male,33,Advisory,Senior Analyst,0.1,48382,44,3,No,66,Yes
+EMP10765,Male,41,Tax,Senior Analyst,1.1,39235,58,3,Yes,50,Yes
+EMP10766,Male,43,Audit,Manager,1.2,158438,68,3,Yes,59,Yes
+EMP10767,Female,31,Advisory,Analyst,5.5,137468,62,3,Yes,2,Yes
+EMP10768,Female,43,Consulting,Analyst,3.2,31764,61,3,Yes,4,Yes
+EMP10769,Male,36,Tax,Analyst,1.0,138831,35,4,No,27,Yes
+EMP10770,Male,35,Consulting,Senior Analyst,10.3,86836,67,3,No,77,Yes
+EMP10771,Male,41,Technology,Manager,1.2,56923,38,4,No,10,Yes
+EMP10772,Male,35,Audit,Analyst,19.0,120711,41,4,No,71,No
+EMP10773,Female,24,Tax,Senior Analyst,16.7,41292,43,4,No,71,Yes
+EMP10774,Female,31,Technology,Analyst,0.6,149913,50,4,No,75,Yes
+EMP10775,Male,39,Tax,Senior Analyst,1.1,157686,39,3,No,14,Yes
+EMP10776,Male,35,Consulting,Manager,2.0,45939,68,1,No,47,No
+EMP10777,Female,24,Consulting,Analyst,3.3,43800,57,3,No,45,Yes
+EMP10778,Female,41,Technology,Analyst,2.3,81440,59,3,No,27,Yes
+EMP10779,Male,33,Audit,Senior Manager,10.5,179318,47,5,No,6,No
+EMP10780,Male,42,Consulting,Manager,3.9,152521,58,4,No,70,No
+EMP10781,Male,39,Advisory,Senior Analyst,0.7,146327,45,2,Yes,5,Yes
+EMP10782,Female,22,Tax,Senior Analyst,0.3,74648,51,2,No,57,Yes
+EMP10783,Female,34,Audit,Analyst,3.5,140192,47,2,No,67,No
+EMP10784,Female,24,Advisory,Senior Analyst,0.5,118498,61,4,No,54,Yes
+EMP10785,Male,36,Tax,Manager,4.6,54764,54,4,No,66,No
+EMP10786,Male,41,Audit,Senior Analyst,1.1,57470,67,4,No,48,Yes
+EMP10787,Female,40,Technology,Analyst,1.2,82207,66,5,No,50,Yes
+EMP10788,Female,34,Audit,Analyst,0.0,87157,42,3,No,58,No
+EMP10789,Male,35,Consulting,Analyst,3.6,159288,63,3,No,5,Yes
+EMP10790,Female,23,Audit,Analyst,0.4,178144,53,3,No,50,No
+EMP10791,Female,28,Audit,Analyst,4.4,118778,40,3,No,37,No
+EMP10792,Male,36,Technology,Analyst,2.0,155016,55,5,Yes,10,No
+EMP10793,Female,30,Consulting,Analyst,4.6,149288,56,3,No,51,No
+EMP10794,Male,24,Consulting,Analyst,2.6,135573,44,4,Yes,19,Yes
+EMP10795,Male,38,Audit,Senior Analyst,0.3,145730,44,3,No,9,Yes
+EMP10796,Male,22,Advisory,Analyst,4.4,173933,63,1,No,25,Yes
+EMP10797,Male,37,Advisory,Analyst,0.2,89186,50,2,Yes,47,No
+EMP10798,Male,33,Consulting,Analyst,2.0,29960,35,3,No,13,No
+EMP10799,Male,24,Consulting,Analyst,0.6,43781,51,4,No,58,Yes
+EMP10800,Male,31,Technology,Senior Analyst,4.2,56126,64,3,Yes,11,Yes
+EMP10801,Female,27,Consulting,Analyst,7.3,178650,60,4,Yes,22,No
+EMP10802,Male,32,Consulting,Manager,2.4,131034,53,4,No,71,No
+EMP10803,Male,30,Consulting,Manager,2.2,42883,55,3,No,38,No
+EMP10804,Female,27,Tax,Senior Analyst,4.3,54782,51,4,No,8,No
+EMP10805,Female,33,Consulting,Senior Analyst,0.0,81387,55,3,No,24,Yes
+EMP10806,Female,27,Consulting,Manager,7.5,173051,53,4,No,16,Yes
+EMP10807,Male,44,Consulting,Senior Analyst,0.7,58746,41,4,No,41,Yes
+EMP10808,Female,37,Technology,Analyst,12.4,91266,51,5,No,28,Yes
+EMP10809,Male,30,Consulting,Analyst,4.0,25056,35,3,No,59,Yes
+EMP10810,Male,30,Tax,Manager,4.5,56457,40,3,No,66,No
+EMP10811,Male,44,Consulting,Analyst,3.2,158315,60,2,No,56,Yes
+EMP10812,Male,24,Audit,Analyst,1.9,157773,36,3,No,71,Yes
+EMP10813,Female,40,Tax,Senior Analyst,2.5,98839,66,4,No,13,Yes
+EMP10814,Female,24,Consulting,Manager,0.1,105636,39,5,No,38,Yes
+EMP10815,Male,42,Technology,Analyst,2.9,132697,65,3,Yes,15,Yes
+EMP10816,Male,27,Technology,Senior Analyst,3.0,91483,46,2,No,17,Yes
+EMP10817,Male,42,Technology,Analyst,6.7,45505,69,3,No,74,Yes
+EMP10818,Female,21,Audit,Senior Analyst,2.1,162625,64,3,No,19,No
+EMP10819,Male,32,Tax,Analyst,0.2,58525,40,3,No,45,Yes
+EMP10820,Male,44,Consulting,Analyst,1.1,121008,49,3,No,44,No
+EMP10821,Female,33,Technology,Manager,3.2,69348,49,4,No,3,Yes
+EMP10822,Female,30,Advisory,Senior Analyst,0.8,32273,50,1,No,19,Yes
+EMP10823,Male,35,Tax,Senior Analyst,1.0,89236,54,3,Yes,10,Yes
+EMP10824,Female,33,Consulting,Analyst,5.2,159607,47,4,No,64,No
+EMP10825,Female,43,Consulting,Analyst,2.6,174749,65,3,No,17,Yes
+EMP10826,Male,42,Audit,Senior Analyst,2.1,132157,68,4,No,38,Yes
+EMP10827,Female,42,Tax,Analyst,1.2,25908,63,4,No,43,Yes
+EMP10828,Male,41,Consulting,Analyst,3.9,133352,37,4,No,17,No
+EMP10829,Female,42,Consulting,Analyst,1.0,120967,43,3,Yes,46,Yes
+EMP10830,Male,29,Tax,Senior Analyst,4.0,113989,45,3,No,30,Yes
+EMP10831,Male,29,Advisory,Manager,0.2,60079,45,4,Yes,38,No
+EMP10832,Male,35,Audit,Senior Manager,6.0,136889,59,4,No,37,Yes
+EMP10833,Female,30,Advisory,Senior Analyst,2.1,74323,56,3,No,78,Yes
+EMP10834,Male,44,Consulting,Analyst,1.7,114909,43,2,No,46,Yes
+EMP10835,Female,30,Consulting,Analyst,2.8,71105,54,2,No,69,No
+EMP10836,Male,28,Audit,Manager,2.9,157957,55,2,No,7,Yes
+EMP10837,Male,44,Audit,Analyst,0.4,26049,44,3,Yes,64,Yes
+EMP10838,Female,36,Consulting,Senior Manager,4.2,78281,56,2,No,12,No
+EMP10839,Male,37,Tax,Analyst,1.0,68271,63,3,Yes,54,Yes
+EMP10840,Male,25,Audit,Senior Manager,7.1,91697,43,4,Yes,42,No
+EMP10841,Female,24,Consulting,Manager,5.1,61534,39,3,Yes,3,Yes
+EMP10842,Male,38,Technology,Manager,1.3,118034,45,4,No,70,Yes
+EMP10843,Male,44,Audit,Analyst,4.9,83097,35,4,No,59,No
+EMP10844,Male,39,Consulting,Analyst,1.3,50037,35,3,No,11,Yes
+EMP10845,Male,24,Tax,Analyst,0.3,52278,39,4,No,58,Yes
+EMP10846,Female,27,Technology,Analyst,9.8,164344,56,4,Yes,76,Yes
+EMP10847,Female,30,Tax,Analyst,3.2,124173,60,3,No,53,Yes
+EMP10848,Male,38,Tax,Senior Analyst,1.8,63294,40,3,Yes,43,Yes
+EMP10849,Female,39,Tax,Analyst,1.5,98277,66,3,No,15,Yes
+EMP10850,Male,24,Consulting,Senior Analyst,1.2,29694,45,5,Yes,5,Yes
+EMP10851,Female,30,Tax,Senior Analyst,12.0,83150,44,4,No,13,No
+EMP10852,Male,21,Audit,Analyst,0.4,92470,68,2,No,57,Yes
+EMP10853,Male,43,Technology,Senior Manager,1.1,46556,65,4,No,30,Yes
+EMP10854,Male,38,Consulting,Analyst,2.0,74086,46,3,No,40,No
+EMP10855,Male,25,Advisory,Analyst,2.0,174979,50,3,No,34,No
+EMP10856,Male,35,Consulting,Senior Analyst,1.9,176365,37,4,Yes,9,Yes
+EMP10857,Male,37,Tax,Manager,0.6,124468,36,3,No,29,Yes
+EMP10858,Female,23,Audit,Analyst,0.5,58387,39,4,No,43,No
+EMP10859,Male,32,Technology,Analyst,0.9,93602,45,4,Yes,54,Yes
+EMP10860,Female,22,Tax,Senior Analyst,7.4,177328,59,4,No,70,Yes
+EMP10861,Male,21,Audit,Analyst,0.4,161666,69,2,Yes,17,Yes
+EMP10862,Female,43,Tax,Senior Analyst,4.2,27460,69,4,No,78,Yes
+EMP10863,Female,41,Tax,Manager,4.3,97356,56,5,Yes,38,Yes
+EMP10864,Female,37,Advisory,Senior Manager,5.0,79698,56,2,No,41,Yes
+EMP10865,Male,42,Consulting,Analyst,6.5,126746,45,3,No,53,No
+EMP10866,Male,36,Consulting,Analyst,0.9,41191,66,3,Yes,29,Yes
+EMP10867,Female,25,Audit,Analyst,0.8,109631,69,4,No,19,Yes
+EMP10868,Male,35,Consulting,Analyst,1.9,35529,65,4,No,41,Yes
+EMP10869,Female,23,Technology,Analyst,0.9,57175,42,2,No,4,Yes
+EMP10870,Male,27,Audit,Analyst,4.0,42675,54,4,No,49,No
+EMP10871,Female,31,Tax,Senior Manager,3.0,71798,68,2,No,40,Yes
+EMP10872,Female,30,Consulting,Manager,6.2,95910,38,4,No,38,Yes
+EMP10873,Male,29,Consulting,Analyst,0.3,155400,52,3,Yes,56,Yes
+EMP10874,Female,34,Tax,Analyst,7.4,103678,38,3,Yes,56,No
+EMP10875,Male,33,Technology,Analyst,1.0,87821,54,2,No,36,Yes
+EMP10876,Female,22,Consulting,Analyst,2.0,37204,43,2,Yes,6,No
+EMP10877,Female,23,Consulting,Senior Analyst,1.7,32394,50,4,No,4,Yes
+EMP10878,Male,27,Consulting,Senior Analyst,4.3,89814,60,3,No,78,Yes
+EMP10879,Male,41,Audit,Manager,1.6,58593,59,2,No,50,Yes
+EMP10880,Male,38,Consulting,Senior Analyst,8.6,140064,38,2,Yes,7,No
+EMP10881,Female,23,Consulting,Senior Analyst,7.0,78365,53,2,No,55,Yes
+EMP10882,Male,30,Consulting,Senior Analyst,6.2,156515,48,4,No,72,Yes
+EMP10883,Female,42,Tax,Analyst,0.2,128700,55,4,Yes,10,Yes
+EMP10884,Female,27,Consulting,Senior Analyst,5.8,122077,49,2,No,21,Yes
+EMP10885,Male,29,Consulting,Senior Analyst,4.6,159537,37,3,No,76,Yes
+EMP10886,Male,37,Consulting,Analyst,0.3,93247,50,2,Yes,10,Yes
+EMP10887,Female,31,Tax,Analyst,0.3,79740,48,5,No,59,Yes
+EMP10888,Female,27,Technology,Analyst,0.3,178560,43,5,Yes,14,Yes
+EMP10889,Male,44,Consulting,Manager,0.0,52898,41,4,No,37,Yes
+EMP10890,Male,34,Tax,Analyst,2.4,157991,48,5,No,0,Yes
+EMP10891,Male,39,Consulting,Analyst,10.9,87613,40,4,No,45,No
+EMP10892,Male,24,Consulting,Analyst,1.7,121707,55,4,No,42,Yes
+EMP10893,Male,26,Consulting,Senior Analyst,2.3,136777,49,3,No,21,Yes
+EMP10894,Female,30,Consulting,Analyst,10.3,72003,42,3,No,2,Yes
+EMP10895,Female,27,Tax,Senior Manager,0.9,73478,68,3,No,13,Yes
+EMP10896,Female,33,Technology,Manager,5.9,170506,35,3,Yes,1,No
+EMP10897,Female,34,Audit,Senior Analyst,2.4,84030,66,4,Yes,60,Yes
+EMP10898,Male,24,Advisory,Senior Analyst,2.5,158071,39,2,No,31,No
+EMP10899,Male,28,Advisory,Analyst,1.3,170921,64,3,No,37,Yes
+EMP10900,Male,25,Audit,Analyst,2.5,77800,56,3,Yes,45,No
+EMP10901,Female,21,Audit,Manager,0.2,30445,54,3,Yes,41,Yes
+EMP10902,Female,24,Consulting,Analyst,4.3,174112,50,3,No,5,No
+EMP10903,Male,23,Audit,Analyst,1.0,25246,41,5,No,40,Yes
+EMP10904,Male,29,Audit,Senior Analyst,6.6,56153,41,4,No,24,No
+EMP10905,Female,28,Consulting,Analyst,1.4,30212,36,4,No,10,Yes
+EMP10906,Female,21,Consulting,Manager,0.5,159411,48,3,No,40,Yes
+EMP10907,Male,26,Tax,Analyst,3.6,81238,65,3,No,70,No
+EMP10908,Male,29,Advisory,Manager,0.5,175466,48,2,No,56,Yes
+EMP10909,Female,27,Technology,Senior Analyst,4.2,78871,39,4,Yes,45,No
+EMP10910,Male,24,Consulting,Manager,10.3,125672,45,3,No,47,No
+EMP10911,Male,33,Tax,Analyst,4.5,59607,39,2,No,62,Yes
+EMP10912,Male,37,Technology,Senior Analyst,0.1,77055,63,4,No,38,Yes
+EMP10913,Female,22,Advisory,Manager,2.7,129509,45,2,Yes,9,Yes
+EMP10914,Female,25,Consulting,Senior Analyst,3.6,160467,39,3,No,69,Yes
+EMP10915,Female,32,Tax,Analyst,5.2,152378,66,1,Yes,64,Yes
+EMP10916,Female,41,Audit,Senior Analyst,0.2,171362,49,2,Yes,58,No
+EMP10917,Female,28,Consulting,Senior Analyst,2.0,112687,53,2,No,77,Yes
+EMP10918,Female,26,Consulting,Analyst,2.3,90078,56,2,No,35,Yes
+EMP10919,Female,28,Advisory,Manager,0.6,159763,68,4,No,26,Yes
+EMP10920,Male,38,Audit,Analyst,1.2,163542,51,4,No,72,Yes
+EMP10921,Male,23,Technology,Senior Analyst,1.7,159913,46,3,No,54,Yes
+EMP10922,Male,42,Advisory,Manager,5.4,127652,59,4,No,69,No
+EMP10923,Male,32,Consulting,Senior Analyst,8.0,88197,51,3,No,52,No
+EMP10924,Male,23,Technology,Manager,3.0,80773,44,3,Yes,59,Yes
+EMP10925,Male,42,Consulting,Senior Manager,1.5,173848,62,2,No,60,Yes
+EMP10926,Male,26,Technology,Analyst,0.9,143943,52,4,No,35,Yes
+EMP10927,Female,22,Consulting,Analyst,12.1,52584,52,3,Yes,26,Yes
+EMP10928,Female,43,Audit,Analyst,12.2,160372,66,4,No,40,Yes
+EMP10929,Male,32,Tax,Senior Analyst,7.8,28338,48,4,No,27,No
+EMP10930,Male,22,Advisory,Manager,4.6,87601,50,3,No,15,Yes
+EMP10931,Female,26,Tax,Analyst,1.2,161559,52,4,No,34,Yes
+EMP10932,Male,37,Technology,Analyst,5.1,61282,50,5,No,35,No
+EMP10933,Male,23,Tax,Analyst,1.6,140447,51,3,Yes,55,Yes
+EMP10934,Female,22,Advisory,Manager,1.2,120798,41,3,Yes,18,No
+EMP10935,Male,43,Technology,Analyst,4.1,155963,46,4,No,56,No
+EMP10936,Female,40,Advisory,Analyst,0.2,133611,68,4,No,32,Yes
+EMP10937,Male,28,Consulting,Senior Analyst,0.1,165987,44,2,No,22,Yes
+EMP10938,Female,42,Technology,Manager,1.8,36158,39,3,No,62,Yes
+EMP10939,Female,32,Audit,Senior Analyst,1.8,35547,55,3,No,69,Yes
+EMP10940,Female,24,Tax,Senior Analyst,6.8,113713,37,3,No,21,Yes
+EMP10941,Male,25,Technology,Analyst,0.4,27459,53,2,Yes,66,No
+EMP10942,Female,33,Tax,Senior Analyst,0.4,88146,69,5,Yes,79,Yes
+EMP10943,Male,35,Advisory,Senior Analyst,0.5,128577,40,4,No,58,Yes
+EMP10944,Male,43,Tax,Senior Manager,0.1,132761,48,3,No,24,Yes
+EMP10945,Male,36,Consulting,Analyst,0.2,128727,38,4,No,16,Yes
+EMP10946,Male,30,Technology,Analyst,3.2,75460,52,4,No,38,No
+EMP10947,Female,43,Audit,Analyst,1.7,107970,63,2,No,76,Yes
+EMP10948,Female,36,Audit,Analyst,4.3,40419,69,3,No,74,Yes
+EMP10949,Male,32,Consulting,Manager,14.7,60577,50,3,No,73,Yes
+EMP10950,Male,37,Consulting,Analyst,3.2,27921,54,4,No,38,Yes
+EMP10951,Female,36,Consulting,Senior Analyst,0.2,160748,58,1,No,23,Yes
+EMP10952,Male,32,Tax,Analyst,0.3,169535,69,5,No,37,Yes
+EMP10953,Female,28,Consulting,Analyst,6.4,65935,53,3,Yes,56,Yes
+EMP10954,Male,40,Consulting,Senior Analyst,2.2,150534,38,3,No,43,Yes
+EMP10955,Male,23,Audit,Analyst,5.2,97828,67,3,No,35,Yes
+EMP10956,Female,36,Consulting,Analyst,5.8,148649,36,2,No,69,Yes
+EMP10957,Male,33,Advisory,Senior Analyst,7.9,114062,47,4,No,79,Yes
+EMP10958,Female,43,Audit,Senior Analyst,9.0,80152,64,5,No,44,No
+EMP10959,Male,39,Consulting,Analyst,2.4,121491,68,3,Yes,25,Yes
+EMP10960,Male,28,Audit,Senior Manager,1.3,111569,64,5,No,10,Yes
+EMP10961,Male,42,Audit,Senior Analyst,9.8,97467,58,4,Yes,51,Yes
+EMP10962,Female,25,Consulting,Manager,2.4,172435,67,3,Yes,24,Yes
+EMP10963,Male,40,Audit,Analyst,0.2,147537,44,4,No,30,No
+EMP10964,Male,28,Tax,Analyst,3.1,78806,52,3,No,44,Yes
+EMP10965,Male,44,Tax,Analyst,2.7,156332,53,3,No,66,Yes
+EMP10966,Male,32,Consulting,Analyst,6.8,100992,41,2,No,75,No
+EMP10967,Female,21,Technology,Analyst,3.2,47320,53,4,No,39,No
+EMP10968,Female,41,Consulting,Manager,1.3,103971,58,2,Yes,45,Yes
+EMP10969,Male,40,Consulting,Senior Analyst,10.2,73581,49,4,Yes,53,No
+EMP10970,Female,26,Technology,Analyst,4.9,118645,57,4,No,40,Yes
+EMP10971,Male,42,Audit,Senior Analyst,3.0,45754,38,3,Yes,37,No
+EMP10972,Male,38,Technology,Analyst,1.0,94837,38,3,No,35,Yes
+EMP10973,Male,28,Audit,Senior Analyst,1.4,163279,39,3,No,43,Yes
+EMP10974,Female,27,Consulting,Senior Analyst,3.3,148746,57,3,No,56,No
+EMP10975,Female,21,Audit,Manager,0.2,139780,45,3,Yes,65,Yes
+EMP10976,Female,41,Tax,Senior Manager,0.9,112081,45,3,No,29,Yes
+EMP10977,Female,36,Advisory,Analyst,3.8,49016,47,3,No,9,No
+EMP10978,Female,32,Tax,Senior Analyst,2.0,85522,48,2,Yes,60,No
+EMP10979,Female,26,Consulting,Manager,1.5,145896,42,1,No,62,Yes
+EMP10980,Female,40,Consulting,Manager,0.5,137099,59,2,No,35,Yes
+EMP10981,Female,22,Audit,Senior Analyst,1.7,176174,52,4,No,53,Yes
+EMP10982,Female,34,Consulting,Manager,4.4,129429,52,5,No,64,No
+EMP10983,Male,24,Technology,Analyst,0.9,26924,44,3,Yes,3,Yes
+EMP10984,Female,21,Consulting,Manager,0.0,110015,41,3,No,54,Yes
+EMP10985,Female,43,Tax,Analyst,3.3,129987,48,2,No,53,No
+EMP10986,Female,38,Tax,Senior Analyst,10.8,79333,49,3,Yes,63,Yes
+EMP10987,Female,33,Consulting,Manager,2.8,151372,50,2,No,21,No
+EMP10988,Female,22,Advisory,Analyst,0.4,156378,36,4,Yes,24,Yes
+EMP10989,Female,29,Audit,Senior Analyst,1.2,113495,64,5,No,58,Yes
+EMP10990,Female,41,Audit,Analyst,6.1,94767,64,2,Yes,56,No
+EMP10991,Female,22,Audit,Senior Manager,0.8,129332,52,4,No,53,Yes
+EMP10992,Female,29,Advisory,Manager,2.8,168279,65,1,No,43,No
+EMP10993,Female,21,Consulting,Senior Analyst,1.5,64426,47,3,No,51,Yes
+EMP10994,Female,31,Consulting,Senior Analyst,0.7,31336,54,2,No,75,Yes
+EMP10995,Male,23,Consulting,Manager,5.0,137200,69,3,No,15,No
+EMP10996,Male,40,Consulting,Analyst,4.1,42256,57,2,No,15,Yes
+EMP10997,Female,43,Advisory,Analyst,3.3,58719,67,3,No,54,No
+EMP10998,Female,24,Tax,Senior Analyst,0.8,67017,69,3,No,60,Yes
+EMP10999,Male,38,Audit,Analyst,0.3,70704,54,3,No,78,Yes
+EMP11000,Female,43,Audit,Analyst,2.6,55013,37,4,No,76,No
+EMP11001,Male,26,Tax,Analyst,2.4,104991,42,5,No,39,No
+EMP11002,Male,23,Consulting,Analyst,0.6,95258,66,3,No,20,Yes
+EMP11003,Male,42,Advisory,Manager,0.2,103348,63,2,Yes,65,Yes
+EMP11004,Male,31,Consulting,Senior Analyst,0.3,35060,41,3,No,7,Yes
+EMP11005,Male,35,Consulting,Senior Analyst,14.8,162727,36,4,Yes,70,No
+EMP11006,Female,42,Audit,Analyst,4.6,74923,55,3,No,9,No
+EMP11007,Male,25,Consulting,Analyst,7.7,103563,40,3,Yes,56,Yes
+EMP11008,Female,40,Advisory,Analyst,0.7,160102,62,2,No,3,Yes
+EMP11009,Female,30,Consulting,Manager,9.7,114779,66,3,No,42,No
+EMP11010,Male,32,Tax,Senior Analyst,0.5,175811,43,3,No,62,Yes
+EMP11011,Male,35,Technology,Manager,2.1,124704,45,5,No,42,No
+EMP11012,Female,37,Consulting,Senior Analyst,5.3,154157,57,4,No,66,Yes
+EMP11013,Male,30,Tax,Senior Analyst,1.3,135234,45,2,No,50,Yes
+EMP11014,Male,26,Consulting,Senior Analyst,1.7,86687,36,3,No,55,Yes
+EMP11015,Female,38,Consulting,Manager,0.4,61491,37,3,No,42,Yes
+EMP11016,Female,33,Tax,Manager,0.4,97115,45,3,No,23,Yes
+EMP11017,Male,23,Consulting,Analyst,2.9,142935,69,4,No,33,Yes
+EMP11018,Female,44,Advisory,Senior Analyst,3.4,108778,49,3,Yes,58,No
+EMP11019,Male,30,Audit,Senior Analyst,4.5,160853,45,3,No,1,No
+EMP11020,Male,34,Advisory,Senior Analyst,2.4,45448,65,3,No,1,Yes
+EMP11021,Male,26,Technology,Analyst,3.1,76550,62,4,No,9,Yes
+EMP11022,Female,23,Technology,Manager,0.0,74294,62,4,No,22,Yes
+EMP11023,Female,36,Tax,Senior Manager,0.5,46446,66,3,No,14,Yes
+EMP11024,Female,27,Tax,Analyst,12.6,101579,59,3,No,75,Yes
+EMP11025,Female,40,Advisory,Manager,0.2,139679,54,3,Yes,16,Yes
+EMP11026,Female,34,Advisory,Analyst,3.4,110615,62,5,No,13,Yes
+EMP11027,Male,29,Audit,Analyst,0.6,42101,59,3,Yes,78,Yes
+EMP11028,Male,35,Consulting,Analyst,3.8,53016,45,3,No,75,No
+EMP11029,Male,41,Consulting,Analyst,3.7,175004,53,3,No,15,No
+EMP11030,Male,23,Technology,Manager,0.8,115481,62,4,Yes,31,Yes
+EMP11031,Female,22,Consulting,Analyst,0.9,77802,35,3,No,22,Yes
+EMP11032,Male,22,Consulting,Analyst,3.2,32549,39,2,No,33,Yes
+EMP11033,Female,23,Consulting,Analyst,1.5,72842,44,3,Yes,15,No
+EMP11034,Male,38,Advisory,Analyst,0.6,71539,68,4,No,33,Yes
+EMP11035,Female,34,Tax,Analyst,3.9,58717,36,4,Yes,70,Yes
+EMP11036,Female,40,Audit,Senior Analyst,0.5,179088,52,4,No,32,Yes
+EMP11037,Male,38,Consulting,Analyst,5.8,140042,47,3,No,67,Yes
+EMP11038,Male,30,Tax,Manager,2.2,152922,39,2,No,42,Yes
+EMP11039,Male,22,Consulting,Manager,0.3,117447,54,5,No,63,No
+EMP11040,Male,42,Consulting,Analyst,3.6,108402,36,3,No,70,No
+EMP11041,Female,21,Advisory,Manager,2.2,67607,45,4,Yes,17,No
+EMP11042,Male,24,Tax,Analyst,1.1,37823,64,4,No,67,Yes
+EMP11043,Male,34,Audit,Analyst,1.6,54986,66,3,No,60,Yes
+EMP11044,Female,21,Tax,Analyst,1.1,146682,66,3,Yes,74,Yes
+EMP11045,Male,34,Tax,Analyst,0.9,89325,62,4,No,19,Yes
+EMP11046,Male,36,Consulting,Senior Analyst,0.5,152925,44,4,Yes,10,Yes
+EMP11047,Male,42,Technology,Manager,1.4,82771,56,3,No,78,Yes
+EMP11048,Male,34,Tax,Analyst,0.9,79973,51,3,No,45,Yes
+EMP11049,Male,40,Tax,Senior Analyst,3.5,170762,56,2,No,63,Yes
+EMP11050,Female,23,Tax,Analyst,3.5,64107,53,2,No,75,No
+EMP11051,Male,23,Audit,Manager,2.1,82888,51,3,No,27,No
+EMP11052,Male,29,Audit,Analyst,4.5,35956,58,3,Yes,47,Yes
+EMP11053,Male,26,Consulting,Analyst,5.5,111839,66,5,No,34,Yes
+EMP11054,Male,33,Consulting,Analyst,2.6,126131,62,4,No,7,Yes
+EMP11055,Male,41,Consulting,Analyst,2.9,92594,48,4,No,21,Yes
+EMP11056,Female,22,Technology,Senior Analyst,1.0,36519,40,3,No,23,Yes
+EMP11057,Male,28,Tax,Manager,6.8,26832,43,2,Yes,65,No
+EMP11058,Female,41,Advisory,Analyst,0.1,138922,55,5,No,63,Yes
+EMP11059,Female,22,Technology,Senior Analyst,1.3,130474,46,3,Yes,64,Yes
+EMP11060,Male,24,Tax,Senior Analyst,3.8,94715,64,2,Yes,13,No
+EMP11061,Male,35,Consulting,Manager,0.3,96835,65,3,No,24,Yes
+EMP11062,Male,24,Audit,Analyst,0.6,98366,38,4,Yes,2,No
+EMP11063,Male,33,Consulting,Senior Analyst,2.7,62570,65,4,Yes,4,No
+EMP11064,Female,32,Tax,Manager,2.5,162687,61,1,No,64,Yes
+EMP11065,Male,33,Consulting,Senior Analyst,4.0,63311,59,4,Yes,53,Yes
+EMP11066,Male,34,Advisory,Analyst,5.0,115245,39,3,Yes,18,No
+EMP11067,Male,40,Audit,Analyst,0.4,128187,40,1,Yes,53,Yes
+EMP11068,Male,38,Tax,Analyst,0.1,48434,39,4,Yes,75,No
+EMP11069,Male,26,Tax,Senior Analyst,3.5,111879,61,4,No,9,No
+EMP11070,Male,31,Tax,Senior Analyst,1.1,40739,42,3,No,15,Yes
+EMP11071,Female,22,Technology,Analyst,3.0,91202,43,3,No,45,Yes
+EMP11072,Female,43,Tax,Senior Analyst,0.5,123580,49,4,No,28,No
+EMP11073,Male,39,Technology,Senior Analyst,1.9,104599,41,4,Yes,14,No
+EMP11074,Male,39,Technology,Senior Analyst,2.1,141770,66,4,Yes,47,Yes
+EMP11075,Male,25,Tax,Senior Analyst,2.6,64470,42,3,Yes,10,No
+EMP11076,Female,39,Advisory,Manager,2.2,99965,49,5,No,33,Yes
+EMP11077,Male,22,Audit,Analyst,2.1,150332,53,5,No,35,Yes
+EMP11078,Female,30,Consulting,Manager,1.2,154681,40,2,No,29,Yes
+EMP11079,Male,22,Advisory,Analyst,0.2,139300,53,4,No,72,Yes
+EMP11080,Male,31,Consulting,Analyst,0.3,62997,62,3,Yes,18,Yes
+EMP11081,Male,38,Consulting,Analyst,1.7,122805,51,3,No,67,Yes
+EMP11082,Male,44,Technology,Analyst,1.3,147202,53,4,No,69,Yes
+EMP11083,Female,35,Technology,Analyst,2.2,27526,65,2,No,32,Yes
+EMP11084,Female,29,Tax,Analyst,1.1,98339,45,3,No,79,Yes
+EMP11085,Male,43,Consulting,Manager,3.5,31574,49,4,No,74,Yes
+EMP11086,Male,39,Audit,Analyst,6.0,33733,44,3,No,21,Yes
+EMP11087,Female,29,Audit,Senior Analyst,1.1,75290,57,3,No,35,Yes
+EMP11088,Female,23,Consulting,Analyst,0.6,97793,37,5,No,22,Yes
+EMP11089,Female,41,Audit,Manager,0.4,61051,37,3,No,62,Yes
+EMP11090,Female,29,Audit,Senior Analyst,2.9,40909,52,3,Yes,25,Yes
+EMP11091,Male,34,Technology,Analyst,1.8,102338,59,3,No,59,Yes
+EMP11092,Female,39,Tax,Manager,0.6,98432,54,3,No,4,Yes
+EMP11093,Male,27,Consulting,Senior Analyst,3.2,53133,63,4,Yes,53,Yes
+EMP11094,Female,36,Audit,Manager,0.5,104062,56,4,No,37,Yes
+EMP11095,Female,36,Consulting,Senior Analyst,2.4,167350,49,3,Yes,61,No
+EMP11096,Female,21,Audit,Senior Analyst,2.2,136546,44,4,No,24,No
+EMP11097,Female,24,Technology,Manager,4.0,76458,55,3,No,11,Yes
+EMP11098,Female,24,Consulting,Analyst,0.2,80415,63,3,No,21,Yes
+EMP11099,Male,27,Consulting,Analyst,6.6,79160,66,4,Yes,8,Yes
+EMP11100,Male,28,Consulting,Manager,3.6,79399,44,4,No,28,Yes
+EMP11101,Female,37,Audit,Analyst,0.7,50298,47,3,No,43,Yes
+EMP11102,Female,25,Advisory,Senior Analyst,0.6,178263,57,2,No,26,Yes
+EMP11103,Male,27,Tax,Analyst,1.7,114407,57,2,No,54,Yes
+EMP11104,Female,40,Advisory,Senior Analyst,5.1,87513,65,3,No,4,No
+EMP11105,Female,40,Audit,Senior Manager,5.6,76097,38,3,No,51,No
+EMP11106,Male,24,Advisory,Analyst,2.2,170476,37,4,Yes,12,No
+EMP11107,Female,26,Advisory,Analyst,5.9,60198,55,1,Yes,41,Yes
+EMP11108,Female,27,Technology,Senior Analyst,0.0,74997,36,4,No,14,Yes
+EMP11109,Male,38,Consulting,Manager,0.1,156639,38,3,Yes,78,Yes
+EMP11110,Male,25,Consulting,Analyst,7.3,27179,35,3,No,17,Yes
+EMP11111,Male,40,Advisory,Analyst,4.5,27019,49,3,Yes,49,Yes
+EMP11112,Female,23,Advisory,Manager,1.8,106455,67,3,No,1,Yes
+EMP11113,Male,27,Consulting,Senior Analyst,4.2,174776,40,4,No,12,No
+EMP11114,Male,42,Consulting,Analyst,9.3,174102,41,2,No,67,No
+EMP11115,Male,34,Consulting,Analyst,4.4,151883,53,3,No,46,Yes
+EMP11116,Male,27,Technology,Senior Analyst,5.5,94445,35,4,Yes,74,No
+EMP11117,Male,25,Consulting,Analyst,4.3,98551,53,4,No,49,Yes
+EMP11118,Male,42,Technology,Analyst,0.6,28420,60,3,No,11,Yes
+EMP11119,Female,25,Consulting,Manager,5.4,84875,46,3,No,12,No
+EMP11120,Female,43,Technology,Analyst,0.7,41740,56,4,No,8,Yes
+EMP11121,Male,22,Tax,Senior Analyst,6.7,90263,47,5,No,58,No
+EMP11122,Male,41,Consulting,Analyst,1.8,130789,62,4,No,44,Yes
+EMP11123,Male,42,Technology,Manager,3.4,44465,48,3,No,69,Yes
+EMP11124,Female,26,Audit,Senior Analyst,2.1,29131,56,5,No,42,Yes
+EMP11125,Female,35,Technology,Analyst,0.3,35652,64,1,No,73,Yes
+EMP11126,Female,41,Advisory,Senior Analyst,1.0,72671,54,1,No,22,Yes
+EMP11127,Female,30,Audit,Analyst,12.4,114342,61,4,No,78,No
+EMP11128,Female,43,Advisory,Manager,9.7,44171,68,2,Yes,44,Yes
+EMP11129,Female,44,Technology,Manager,1.2,83541,35,2,No,22,Yes
+EMP11130,Female,27,Audit,Analyst,16.8,34470,49,3,No,33,Yes
+EMP11131,Female,25,Advisory,Analyst,5.6,69308,66,3,No,15,No
+EMP11132,Female,21,Tax,Analyst,2.8,177398,42,4,No,62,No
+EMP11133,Male,33,Tax,Senior Analyst,0.1,160669,67,4,No,50,Yes
+EMP11134,Male,41,Consulting,Analyst,7.0,127840,52,3,No,31,No
+EMP11135,Male,38,Audit,Analyst,2.4,74477,63,3,No,37,Yes
+EMP11136,Male,33,Audit,Analyst,6.1,133261,66,5,No,55,Yes
+EMP11137,Female,41,Advisory,Analyst,5.4,127466,67,4,Yes,68,Yes
+EMP11138,Female,41,Consulting,Senior Analyst,5.4,58071,39,3,Yes,16,No
+EMP11139,Male,38,Technology,Analyst,3.6,95560,52,5,Yes,38,No
+EMP11140,Female,25,Audit,Senior Analyst,1.0,101762,44,4,No,40,Yes
+EMP11141,Male,33,Advisory,Analyst,1.2,168641,67,2,No,47,Yes
+EMP11142,Female,24,Audit,Analyst,1.1,27369,57,1,Yes,27,Yes
+EMP11143,Male,37,Audit,Senior Analyst,0.1,134963,39,2,No,76,Yes
+EMP11144,Female,23,Consulting,Senior Manager,2.6,25528,68,4,No,49,Yes
+EMP11145,Female,37,Consulting,Manager,3.6,133806,58,2,Yes,0,Yes
+EMP11146,Male,31,Advisory,Analyst,5.8,127979,51,3,No,49,No
+EMP11147,Female,41,Technology,Analyst,0.5,174119,65,2,No,18,Yes
+EMP11148,Male,40,Advisory,Manager,2.4,44748,41,5,No,58,Yes
+EMP11149,Male,43,Technology,Analyst,0.0,60109,51,3,No,67,Yes
+EMP11150,Male,41,Technology,Analyst,0.3,38919,62,5,No,66,Yes
+EMP11151,Male,24,Advisory,Manager,0.2,72498,56,5,No,40,Yes
+EMP11152,Female,22,Tax,Manager,3.9,80808,49,1,No,9,Yes
+EMP11153,Female,40,Advisory,Senior Manager,0.3,95441,49,3,No,27,Yes
+EMP11154,Female,36,Audit,Manager,3.8,138843,59,1,No,33,Yes
+EMP11155,Male,38,Tax,Manager,0.9,99420,55,5,No,38,Yes
+EMP11156,Female,28,Audit,Analyst,6.3,132447,36,3,No,55,Yes
+EMP11157,Male,23,Advisory,Analyst,5.0,91896,61,2,Yes,51,Yes
+EMP11158,Female,29,Tax,Senior Analyst,9.5,128431,66,2,No,2,Yes
+EMP11159,Female,40,Audit,Senior Analyst,6.5,178018,55,3,No,22,Yes
+EMP11160,Female,26,Audit,Senior Analyst,8.1,72020,38,5,No,16,No
+EMP11161,Male,30,Technology,Analyst,5.9,47161,53,4,Yes,70,No
+EMP11162,Female,41,Advisory,Analyst,3.5,52738,36,4,Yes,25,Yes
+EMP11163,Female,30,Audit,Senior Analyst,0.6,159997,60,3,No,17,Yes
+EMP11164,Male,33,Advisory,Analyst,1.0,164535,68,1,Yes,45,Yes
+EMP11165,Female,37,Advisory,Analyst,0.7,82153,48,5,No,69,Yes
+EMP11166,Male,29,Consulting,Senior Analyst,2.8,86009,49,1,No,30,Yes
+EMP11167,Female,37,Technology,Senior Analyst,2.1,112938,54,5,No,8,Yes
+EMP11168,Male,44,Advisory,Analyst,6.1,124546,68,3,Yes,34,No
+EMP11169,Male,29,Consulting,Senior Analyst,9.2,81271,53,1,Yes,59,No
+EMP11170,Female,29,Tax,Senior Analyst,1.6,34797,43,4,Yes,75,Yes
+EMP11171,Male,21,Technology,Analyst,2.1,111130,41,5,Yes,62,Yes
+EMP11172,Male,22,Audit,Analyst,10.7,96942,64,5,No,51,Yes
+EMP11173,Male,36,Audit,Analyst,1.0,143065,47,2,No,47,Yes
+EMP11174,Male,21,Audit,Analyst,4.7,38965,61,2,Yes,60,Yes
+EMP11175,Male,30,Advisory,Manager,0.8,38733,69,3,Yes,23,Yes
+EMP11176,Male,38,Advisory,Analyst,3.4,152182,47,4,Yes,73,No
+EMP11177,Female,28,Advisory,Senior Analyst,0.9,108360,49,4,No,57,Yes
+EMP11178,Male,41,Technology,Analyst,6.5,133378,43,2,No,63,Yes
+EMP11179,Male,31,Tax,Analyst,2.5,53287,57,5,No,29,Yes
+EMP11180,Female,43,Audit,Senior Analyst,0.6,107104,37,4,No,28,Yes
+EMP11181,Female,22,Consulting,Analyst,0.8,111916,68,4,No,9,Yes
+EMP11182,Female,28,Consulting,Senior Analyst,2.0,28188,53,3,No,38,Yes
+EMP11183,Female,42,Consulting,Analyst,9.8,116205,62,3,Yes,54,Yes
+EMP11184,Female,28,Advisory,Analyst,4.4,122349,57,5,No,27,Yes
+EMP11185,Female,37,Technology,Senior Analyst,2.0,162837,41,3,Yes,17,No
+EMP11186,Female,35,Consulting,Analyst,1.2,166879,46,4,No,40,Yes
+EMP11187,Male,37,Advisory,Manager,2.4,35204,48,5,Yes,74,Yes
+EMP11188,Male,43,Tax,Senior Analyst,4.1,67120,49,4,No,64,No
+EMP11189,Female,44,Consulting,Analyst,4.6,127903,37,3,Yes,45,No
+EMP11190,Male,33,Audit,Analyst,1.2,178730,49,1,No,59,No
+EMP11191,Male,39,Consulting,Senior Analyst,3.8,62081,58,1,No,8,Yes
+EMP11192,Male,25,Audit,Manager,3.2,59986,42,3,No,44,No
+EMP11193,Female,32,Technology,Analyst,9.6,104322,39,2,No,59,No
+EMP11194,Female,21,Audit,Manager,8.0,119819,38,3,No,27,Yes
+EMP11195,Male,43,Consulting,Analyst,4.7,155015,48,3,No,2,Yes
+EMP11196,Female,25,Consulting,Manager,3.9,75304,50,3,No,50,Yes
+EMP11197,Male,28,Technology,Analyst,1.0,90592,54,3,Yes,7,Yes
+EMP11198,Male,33,Audit,Manager,5.6,83548,58,2,No,69,Yes
+EMP11199,Male,28,Audit,Senior Analyst,1.7,123447,40,1,No,58,Yes
+EMP11200,Male,43,Audit,Analyst,1.0,64986,65,4,No,60,Yes
+EMP11201,Female,31,Audit,Analyst,1.5,99095,40,3,No,57,Yes
+EMP11202,Female,21,Audit,Analyst,5.4,116594,69,3,No,69,No
+EMP11203,Female,33,Advisory,Senior Manager,0.5,113281,49,4,No,11,Yes
+EMP11204,Male,39,Audit,Analyst,1.8,91151,63,4,No,8,Yes
+EMP11205,Female,44,Audit,Analyst,2.0,98598,37,3,No,48,Yes
+EMP11206,Male,23,Tax,Senior Analyst,0.1,53214,45,4,Yes,16,No
+EMP11207,Female,44,Consulting,Senior Analyst,0.7,63745,37,5,Yes,53,Yes
+EMP11208,Male,37,Consulting,Senior Analyst,5.3,166753,62,4,No,43,Yes
+EMP11209,Male,25,Consulting,Senior Analyst,5.3,163056,44,3,No,31,Yes
+EMP11210,Male,40,Technology,Analyst,1.0,115810,67,4,No,34,Yes
+EMP11211,Female,41,Audit,Manager,6.2,25944,50,2,Yes,77,Yes
+EMP11212,Female,28,Technology,Analyst,4.4,118993,44,3,No,48,No
+EMP11213,Female,34,Tax,Analyst,1.6,34114,67,5,No,53,Yes
+EMP11214,Female,24,Audit,Senior Analyst,4.1,64846,37,3,No,15,No
+EMP11215,Male,31,Technology,Senior Analyst,9.8,57596,39,5,No,11,Yes
+EMP11216,Female,40,Consulting,Analyst,1.8,129087,46,3,No,7,Yes
+EMP11217,Female,35,Audit,Senior Analyst,0.8,31907,47,5,Yes,20,Yes
+EMP11218,Male,39,Tax,Analyst,8.5,50009,58,3,No,47,Yes
+EMP11219,Male,27,Tax,Analyst,2.8,109846,66,1,No,7,Yes
+EMP11220,Male,39,Advisory,Manager,0.3,75241,50,3,No,27,Yes
+EMP11221,Female,39,Audit,Analyst,2.6,43996,66,3,Yes,79,Yes
+EMP11222,Male,31,Consulting,Analyst,2.1,162119,55,1,No,9,No
+EMP11223,Male,25,Tax,Manager,5.8,53767,46,4,Yes,51,Yes
+EMP11224,Male,25,Consulting,Senior Manager,2.3,41347,55,3,No,14,Yes
+EMP11225,Female,42,Consulting,Senior Analyst,0.9,127063,55,4,Yes,3,No
+EMP11226,Male,28,Audit,Senior Analyst,3.4,49102,40,3,Yes,78,No
+EMP11227,Female,30,Audit,Senior Analyst,2.3,29263,43,2,Yes,61,No
+EMP11228,Female,26,Technology,Manager,0.8,133585,35,5,Yes,3,Yes
+EMP11229,Male,35,Consulting,Manager,2.6,92438,46,3,Yes,40,No
+EMP11230,Male,36,Technology,Analyst,5.2,121359,48,4,No,72,No
+EMP11231,Female,37,Consulting,Analyst,0.1,155251,40,4,Yes,54,Yes
+EMP11232,Male,28,Tax,Senior Analyst,3.0,52690,35,3,No,27,Yes
+EMP11233,Male,28,Consulting,Manager,1.3,27994,56,5,Yes,46,Yes
+EMP11234,Female,29,Consulting,Senior Analyst,1.0,128533,68,4,No,8,Yes
+EMP11235,Female,22,Audit,Senior Analyst,1.5,92546,45,3,No,1,Yes
+EMP11236,Male,35,Consulting,Senior Manager,1.3,163449,37,4,Yes,66,Yes
+EMP11237,Female,38,Consulting,Analyst,5.4,103572,40,2,No,47,No
+EMP11238,Male,23,Technology,Analyst,1.0,51467,40,3,Yes,68,Yes
+EMP11239,Male,37,Advisory,Analyst,4.0,156120,54,5,No,73,No
+EMP11240,Male,24,Audit,Analyst,0.3,72606,55,4,No,27,Yes
+EMP11241,Female,24,Audit,Analyst,9.1,123112,36,4,Yes,78,Yes
+EMP11242,Male,34,Audit,Analyst,2.9,98414,60,4,No,13,Yes
+EMP11243,Male,29,Advisory,Senior Analyst,3.7,118145,65,4,Yes,45,Yes
+EMP11244,Male,29,Tax,Manager,1.1,73115,60,5,No,12,Yes
+EMP11245,Female,43,Technology,Senior Analyst,1.6,114606,66,3,No,15,Yes
+EMP11246,Female,38,Audit,Senior Analyst,0.8,65647,44,2,No,39,No
+EMP11247,Female,30,Consulting,Analyst,8.1,79607,57,3,No,71,Yes
+EMP11248,Female,41,Consulting,Manager,2.0,46996,40,4,Yes,29,No
+EMP11249,Female,24,Advisory,Manager,3.0,108697,57,3,Yes,64,Yes
+EMP11250,Male,32,Advisory,Senior Analyst,4.0,71022,62,1,Yes,57,Yes
+EMP11251,Female,28,Advisory,Analyst,1.4,65148,64,3,No,47,Yes
+EMP11252,Female,22,Advisory,Analyst,3.8,92764,48,5,Yes,48,Yes
+EMP11253,Female,42,Audit,Analyst,3.4,116901,66,4,No,1,Yes
+EMP11254,Male,33,Tax,Senior Analyst,3.7,115724,68,3,No,13,Yes
+EMP11255,Female,41,Audit,Manager,2.0,149766,56,2,Yes,16,Yes
+EMP11256,Female,36,Advisory,Manager,1.4,33888,65,3,No,30,Yes
+EMP11257,Male,22,Consulting,Senior Analyst,0.8,123941,41,2,No,9,Yes
+EMP11258,Female,31,Consulting,Manager,5.2,42333,55,2,No,69,Yes
+EMP11259,Male,30,Technology,Manager,2.8,61355,50,5,No,36,No
+EMP11260,Male,35,Technology,Analyst,1.8,154686,54,5,No,63,Yes
+EMP11261,Male,37,Tax,Analyst,8.6,128170,53,2,No,29,Yes
+EMP11262,Male,28,Consulting,Manager,0.1,100675,66,2,No,33,Yes
+EMP11263,Male,38,Tax,Analyst,5.7,92664,49,3,No,17,Yes
+EMP11264,Female,43,Consulting,Manager,18.1,111153,39,3,Yes,62,Yes
+EMP11265,Male,29,Technology,Senior Manager,6.5,118616,45,3,No,48,Yes
+EMP11266,Male,28,Consulting,Senior Analyst,5.0,60285,49,3,Yes,55,No
+EMP11267,Female,34,Technology,Manager,1.4,173605,63,3,Yes,57,Yes
+EMP11268,Male,38,Technology,Senior Analyst,0.8,71996,38,4,No,26,No
+EMP11269,Female,42,Tax,Senior Analyst,4.0,71947,57,4,No,54,No
+EMP11270,Female,40,Consulting,Analyst,1.1,76030,49,4,No,18,Yes
+EMP11271,Female,40,Audit,Analyst,0.6,67443,37,3,Yes,22,Yes
+EMP11272,Male,41,Technology,Analyst,4.6,153344,66,5,No,46,Yes
+EMP11273,Male,32,Audit,Senior Analyst,1.1,90464,44,5,No,78,Yes
+EMP11274,Male,39,Technology,Analyst,7.4,153019,56,2,Yes,65,Yes
+EMP11275,Female,34,Consulting,Analyst,5.5,160024,48,3,No,50,Yes
+EMP11276,Male,37,Consulting,Analyst,5.6,145454,51,3,No,27,Yes
+EMP11277,Male,44,Technology,Senior Analyst,4.4,149444,55,2,No,56,Yes
+EMP11278,Male,41,Advisory,Senior Manager,6.4,137175,49,3,Yes,57,No
+EMP11279,Female,23,Advisory,Senior Manager,4.9,67460,49,3,Yes,14,No
+EMP11280,Female,43,Advisory,Senior Analyst,2.8,178868,35,3,No,15,Yes
+EMP11281,Male,27,Consulting,Manager,1.1,25015,58,3,No,46,Yes
+EMP11282,Male,37,Tax,Senior Analyst,6.6,74757,46,3,No,62,Yes
+EMP11283,Male,32,Consulting,Senior Analyst,5.5,106541,44,5,Yes,11,No
+EMP11284,Male,29,Technology,Senior Analyst,1.9,46292,65,3,No,42,Yes
+EMP11285,Female,35,Technology,Analyst,0.1,147694,45,4,No,28,Yes
+EMP11286,Female,38,Consulting,Manager,3.1,72046,50,1,Yes,48,No
+EMP11287,Female,41,Tax,Analyst,0.2,39817,43,2,No,2,Yes
+EMP11288,Female,33,Advisory,Analyst,7.8,34759,48,3,No,68,No
+EMP11289,Male,41,Consulting,Senior Analyst,9.8,31412,53,2,Yes,59,No
+EMP11290,Male,28,Technology,Analyst,0.6,45504,65,1,Yes,65,Yes
+EMP11291,Male,34,Audit,Analyst,3.4,133500,43,2,No,25,Yes
+EMP11292,Female,28,Consulting,Senior Analyst,0.3,33507,60,3,No,70,Yes
+EMP11293,Male,34,Consulting,Analyst,3.9,46050,42,4,No,73,Yes
+EMP11294,Female,27,Consulting,Senior Analyst,1.3,160892,58,3,No,68,Yes
+EMP11295,Female,43,Advisory,Senior Analyst,3.4,163907,42,4,Yes,46,No
+EMP11296,Male,32,Tax,Senior Analyst,1.4,125153,53,2,No,75,Yes
+EMP11297,Male,31,Advisory,Senior Analyst,0.5,38587,64,4,No,41,Yes
+EMP11298,Male,42,Advisory,Senior Analyst,1.6,82732,56,3,Yes,30,Yes
+EMP11299,Female,42,Audit,Senior Analyst,0.4,76921,43,4,No,21,Yes
+EMP11300,Male,31,Consulting,Senior Analyst,2.6,142734,38,5,Yes,16,No
+EMP11301,Female,42,Audit,Manager,0.1,155104,42,5,Yes,19,Yes
+EMP11302,Male,33,Consulting,Senior Analyst,2.2,162912,35,1,Yes,7,No
+EMP11303,Female,38,Advisory,Manager,6.5,56440,62,4,Yes,48,No
+EMP11304,Female,22,Audit,Analyst,5.5,60183,40,2,No,37,No
+EMP11305,Male,41,Consulting,Analyst,6.4,121172,45,5,No,52,No
+EMP11306,Female,35,Audit,Manager,7.7,158461,39,3,No,27,Yes
+EMP11307,Female,40,Technology,Analyst,0.3,139515,58,3,No,76,Yes
+EMP11308,Male,38,Technology,Analyst,0.4,148183,52,2,No,28,Yes
+EMP11309,Female,35,Advisory,Senior Analyst,2.4,91299,54,2,No,71,No
+EMP11310,Male,39,Technology,Analyst,6.7,140503,62,4,No,10,Yes
+EMP11311,Female,43,Tax,Analyst,11.0,64023,47,5,No,46,Yes
+EMP11312,Male,44,Advisory,Senior Manager,0.1,64941,39,4,No,44,Yes
+EMP11313,Male,32,Audit,Senior Analyst,1.3,146677,64,4,No,17,Yes
+EMP11314,Female,33,Tax,Analyst,0.7,101054,35,4,Yes,49,Yes
+EMP11315,Female,42,Tax,Senior Manager,4.2,90363,56,3,No,48,Yes
+EMP11316,Female,31,Advisory,Senior Manager,3.1,86742,52,1,No,21,No
+EMP11317,Female,25,Tax,Analyst,0.4,70215,39,1,No,44,Yes
+EMP11318,Female,21,Consulting,Analyst,2.0,72857,65,3,Yes,60,No
+EMP11319,Male,44,Tax,Manager,3.5,80476,40,3,No,20,Yes
+EMP11320,Female,23,Technology,Senior Analyst,4.5,165467,61,2,No,70,Yes
+EMP11321,Male,42,Consulting,Senior Analyst,0.1,84768,59,2,Yes,60,Yes
+EMP11322,Male,39,Tax,Manager,6.6,128591,63,2,No,75,Yes
+EMP11323,Female,43,Consulting,Senior Analyst,2.5,71229,62,5,Yes,35,No
+EMP11324,Male,27,Advisory,Analyst,5.0,136706,50,2,No,23,No
+EMP11325,Male,32,Tax,Senior Analyst,4.9,87583,46,3,No,31,Yes
+EMP11326,Male,35,Audit,Analyst,0.6,151011,54,3,No,58,Yes
+EMP11327,Male,25,Advisory,Manager,0.4,55104,52,3,No,74,Yes
+EMP11328,Female,35,Audit,Senior Analyst,3.8,62594,68,2,No,4,No
+EMP11329,Male,28,Advisory,Analyst,0.5,28664,57,3,Yes,15,Yes
+EMP11330,Female,30,Consulting,Senior Analyst,5.7,35528,61,2,Yes,10,Yes
+EMP11331,Female,36,Tax,Analyst,3.9,153404,51,3,Yes,34,No
+EMP11332,Male,28,Audit,Analyst,5.5,57899,55,2,Yes,74,No
+EMP11333,Female,21,Advisory,Senior Analyst,1.1,95979,65,3,No,41,Yes
+EMP11334,Female,32,Consulting,Analyst,1.1,42241,37,4,No,9,Yes
+EMP11335,Female,25,Technology,Manager,3.3,71211,51,3,Yes,7,Yes
+EMP11336,Male,23,Technology,Analyst,0.1,88472,60,3,Yes,25,Yes
+EMP11337,Female,21,Technology,Senior Analyst,3.9,56346,57,3,No,2,Yes
+EMP11338,Female,24,Tax,Manager,5.4,106196,40,4,No,58,Yes
+EMP11339,Female,28,Tax,Senior Analyst,1.6,129451,62,3,No,2,Yes
+EMP11340,Male,23,Audit,Senior Analyst,4.3,127908,42,4,No,37,Yes
+EMP11341,Female,30,Consulting,Senior Manager,0.6,174014,42,4,No,1,Yes
+EMP11342,Male,22,Consulting,Analyst,1.2,74167,53,3,Yes,16,Yes
+EMP11343,Male,31,Tax,Analyst,11.0,61373,63,3,No,72,Yes
+EMP11344,Male,30,Technology,Analyst,12.9,92143,57,3,Yes,35,Yes
+EMP11345,Male,41,Audit,Analyst,2.2,145623,66,2,Yes,72,Yes
+EMP11346,Male,34,Technology,Senior Manager,8.2,135013,44,1,Yes,1,No
+EMP11347,Male,27,Advisory,Analyst,2.2,27016,61,2,No,33,Yes
+EMP11348,Female,22,Advisory,Manager,1.0,94110,35,2,No,26,Yes
+EMP11349,Male,29,Audit,Manager,0.9,32274,63,3,Yes,36,Yes
+EMP11350,Female,36,Audit,Analyst,8.0,40748,37,4,No,70,No
+EMP11351,Female,33,Advisory,Senior Analyst,0.6,176247,65,3,No,21,Yes
+EMP11352,Male,29,Advisory,Analyst,2.6,36826,45,5,No,67,Yes
+EMP11353,Female,40,Audit,Senior Analyst,2.4,108008,56,5,Yes,13,Yes
+EMP11354,Female,24,Advisory,Analyst,4.0,154288,52,5,No,22,No
+EMP11355,Female,42,Technology,Manager,2.1,179562,69,4,No,43,No
+EMP11356,Female,30,Tax,Senior Manager,1.0,130623,40,3,Yes,64,Yes
+EMP11357,Male,42,Technology,Analyst,0.6,164592,37,2,Yes,78,No
+EMP11358,Female,32,Consulting,Analyst,2.9,108106,39,3,Yes,77,No
+EMP11359,Male,37,Consulting,Manager,3.8,175870,43,3,Yes,60,No
+EMP11360,Female,34,Tax,Analyst,2.5,79638,62,4,No,54,No
+EMP11361,Female,34,Consulting,Manager,4.0,94072,53,5,No,70,No
+EMP11362,Male,22,Audit,Senior Analyst,0.5,92309,62,3,No,49,Yes
+EMP11363,Female,41,Consulting,Analyst,6.4,149724,61,3,Yes,11,No
+EMP11364,Female,40,Consulting,Manager,2.6,152843,47,2,No,78,No
+EMP11365,Female,31,Consulting,Senior Analyst,0.4,60326,55,1,No,14,Yes
+EMP11366,Male,36,Consulting,Manager,1.9,30079,61,3,No,16,Yes
+EMP11367,Female,39,Consulting,Manager,5.6,146412,40,3,No,33,Yes
+EMP11368,Male,43,Audit,Analyst,6.8,112340,45,4,Yes,34,Yes
+EMP11369,Female,26,Advisory,Analyst,0.9,110211,51,3,No,38,Yes
+EMP11370,Male,44,Advisory,Senior Manager,3.7,67749,41,5,No,77,Yes
+EMP11371,Male,39,Advisory,Manager,0.3,143192,64,4,No,54,Yes
+EMP11372,Female,25,Audit,Analyst,0.1,99534,55,4,No,58,Yes
+EMP11373,Female,24,Consulting,Manager,2.5,104233,35,2,Yes,4,No
+EMP11374,Male,35,Advisory,Senior Analyst,3.6,76818,59,4,Yes,29,No
+EMP11375,Male,24,Advisory,Analyst,4.8,136910,66,4,No,3,Yes
+EMP11376,Female,40,Consulting,Manager,1.2,38429,42,2,No,14,Yes
+EMP11377,Male,30,Consulting,Analyst,0.0,82748,39,2,No,34,Yes
+EMP11378,Female,44,Technology,Manager,2.0,73807,64,5,Yes,73,No
+EMP11379,Female,42,Consulting,Analyst,0.0,32140,42,1,No,54,Yes
+EMP11380,Female,23,Consulting,Senior Analyst,0.3,88226,53,3,No,65,Yes
+EMP11381,Female,25,Advisory,Analyst,1.2,170973,64,3,No,59,Yes
+EMP11382,Male,26,Consulting,Senior Analyst,1.7,113815,49,4,Yes,23,Yes
+EMP11383,Female,41,Consulting,Senior Analyst,1.0,53525,61,4,Yes,21,Yes
+EMP11384,Male,42,Consulting,Analyst,2.6,45491,47,3,No,43,Yes
+EMP11385,Female,28,Tax,Senior Analyst,0.2,33078,48,3,No,31,Yes
+EMP11386,Male,27,Consulting,Senior Analyst,0.5,116654,64,5,No,50,Yes
+EMP11387,Female,41,Audit,Analyst,3.6,154101,47,4,No,2,Yes
+EMP11388,Male,30,Consulting,Manager,0.5,41997,50,4,No,69,Yes
+EMP11389,Male,26,Tax,Analyst,3.1,156940,41,3,Yes,31,Yes
+EMP11390,Female,34,Audit,Senior Analyst,0.2,122356,61,3,Yes,1,Yes
+EMP11391,Female,24,Technology,Senior Analyst,1.6,138711,69,3,Yes,58,Yes
+EMP11392,Female,33,Consulting,Senior Analyst,0.6,46246,49,4,No,72,Yes
+EMP11393,Female,40,Technology,Analyst,0.3,176633,62,2,No,76,Yes
+EMP11394,Male,37,Technology,Analyst,2.5,172326,69,3,No,13,No
+EMP11395,Female,43,Consulting,Senior Analyst,7.9,59512,41,1,Yes,50,No
+EMP11396,Male,27,Audit,Senior Analyst,0.2,82865,54,3,No,10,Yes
+EMP11397,Male,24,Audit,Manager,1.6,179652,66,4,No,77,Yes
+EMP11398,Female,34,Audit,Senior Analyst,3.7,128393,66,1,No,79,No
+EMP11399,Male,23,Tax,Analyst,1.9,97144,60,4,Yes,9,Yes
+EMP11400,Male,44,Consulting,Analyst,4.9,142363,54,5,No,79,No
+EMP11401,Male,25,Consulting,Analyst,0.6,75665,52,3,No,57,Yes
+EMP11402,Male,36,Consulting,Analyst,9.6,177110,49,4,No,33,No
+EMP11403,Female,43,Technology,Analyst,1.5,118542,56,5,No,79,Yes
+EMP11404,Female,40,Audit,Analyst,1.3,126311,56,5,Yes,77,Yes
+EMP11405,Female,24,Audit,Analyst,6.2,39325,55,3,No,52,No
+EMP11406,Female,44,Audit,Analyst,2.5,157825,36,2,No,27,Yes
+EMP11407,Male,44,Technology,Analyst,2.2,174068,52,2,No,17,No
+EMP11408,Male,22,Advisory,Analyst,3.9,93811,57,4,No,25,No
+EMP11409,Female,38,Consulting,Analyst,2.6,141737,47,4,Yes,6,Yes
+EMP11410,Female,39,Audit,Analyst,0.5,25824,43,4,Yes,44,Yes
+EMP11411,Female,39,Consulting,Senior Analyst,3.4,169952,41,3,No,44,No
+EMP11412,Male,37,Audit,Analyst,0.4,142718,35,2,Yes,70,No
+EMP11413,Female,34,Technology,Analyst,4.9,91617,36,3,No,34,No
+EMP11414,Female,39,Tax,Analyst,13.7,36517,38,3,Yes,51,Yes
+EMP11415,Female,42,Consulting,Analyst,1.4,177755,48,4,Yes,20,No
+EMP11416,Male,44,Technology,Analyst,1.8,172948,66,3,No,27,Yes
+EMP11417,Male,33,Audit,Senior Analyst,0.1,128068,36,3,Yes,43,Yes
+EMP11418,Male,32,Tax,Senior Analyst,0.0,140016,48,3,No,79,No
+EMP11419,Male,26,Technology,Analyst,7.6,34982,54,3,No,55,Yes
+EMP11420,Male,41,Consulting,Analyst,0.4,170711,59,3,No,9,Yes
+EMP11421,Male,24,Tax,Manager,1.8,95210,42,2,No,22,No
+EMP11422,Male,39,Consulting,Analyst,5.1,94852,62,3,Yes,47,No
+EMP11423,Male,36,Consulting,Analyst,6.6,138618,55,1,No,51,No
+EMP11424,Female,33,Audit,Manager,2.2,34695,57,2,No,14,Yes
+EMP11425,Female,24,Consulting,Manager,2.5,73582,66,4,No,54,Yes
+EMP11426,Male,43,Tax,Analyst,3.3,56094,42,3,No,42,Yes
+EMP11427,Male,37,Technology,Senior Analyst,9.8,47187,65,4,No,49,Yes
+EMP11428,Female,43,Advisory,Analyst,2.8,143013,50,4,No,5,No
+EMP11429,Male,21,Technology,Analyst,2.5,153721,61,3,No,32,Yes
+EMP11430,Male,38,Tax,Senior Analyst,0.0,131683,52,5,Yes,61,Yes
+EMP11431,Male,40,Audit,Analyst,0.3,26214,69,1,Yes,54,Yes
+EMP11432,Female,37,Consulting,Analyst,2.6,48940,49,4,No,38,No
+EMP11433,Female,35,Audit,Manager,8.3,69406,61,5,Yes,11,Yes
+EMP11434,Female,31,Advisory,Senior Manager,6.0,172049,51,4,Yes,30,No
+EMP11435,Female,42,Technology,Analyst,12.2,83414,36,2,Yes,73,No
+EMP11436,Female,33,Audit,Senior Analyst,2.3,126440,65,3,No,52,Yes
+EMP11437,Male,21,Tax,Senior Analyst,4.7,128569,68,2,No,33,Yes
+EMP11438,Female,37,Advisory,Manager,5.5,85481,68,4,No,40,Yes
+EMP11439,Male,26,Advisory,Analyst,3.1,52740,37,4,No,9,Yes
+EMP11440,Male,24,Consulting,Analyst,1.2,88328,51,3,No,51,No
+EMP11441,Female,40,Consulting,Analyst,1.9,36881,48,3,No,74,Yes
+EMP11442,Female,36,Audit,Analyst,5.9,61996,48,4,No,56,No
+EMP11443,Male,35,Audit,Analyst,1.1,147196,69,3,No,77,Yes
+EMP11444,Male,35,Audit,Manager,7.7,62177,35,4,No,2,Yes
+EMP11445,Male,26,Advisory,Senior Analyst,0.8,91126,63,4,No,56,Yes
+EMP11446,Female,35,Audit,Analyst,4.2,81531,38,2,No,32,No
+EMP11447,Female,34,Technology,Senior Analyst,3.0,51119,67,4,No,6,Yes
+EMP11448,Female,31,Consulting,Analyst,4.2,142744,51,3,No,3,Yes
+EMP11449,Female,27,Advisory,Manager,1.7,141894,62,3,No,38,Yes
+EMP11450,Female,29,Consulting,Manager,8.1,158780,60,5,No,47,Yes
+EMP11451,Male,36,Advisory,Senior Manager,3.0,69989,42,4,No,73,No
+EMP11452,Female,25,Technology,Manager,1.0,47106,68,3,No,78,Yes
+EMP11453,Male,40,Audit,Analyst,3.1,42131,52,3,No,15,Yes
+EMP11454,Male,30,Consulting,Analyst,1.0,71553,65,3,No,37,Yes
+EMP11455,Male,38,Tax,Senior Analyst,1.0,31553,61,3,No,3,Yes
+EMP11456,Female,23,Audit,Manager,1.5,42881,50,2,No,3,Yes
+EMP11457,Female,33,Audit,Analyst,5.7,26379,44,3,No,26,Yes
+EMP11458,Female,31,Consulting,Analyst,2.1,115791,46,1,No,16,No
+EMP11459,Male,37,Audit,Manager,3.4,130664,56,3,No,69,Yes
+EMP11460,Male,42,Advisory,Analyst,1.5,94306,50,3,No,53,Yes
+EMP11461,Male,33,Audit,Analyst,0.9,175798,46,5,No,7,Yes
+EMP11462,Male,26,Technology,Senior Analyst,9.3,165160,45,4,Yes,52,No
+EMP11463,Male,37,Tax,Analyst,2.8,129512,54,3,No,4,No
+EMP11464,Male,33,Advisory,Analyst,8.2,41350,35,2,No,68,Yes
+EMP11465,Female,39,Advisory,Manager,0.7,124599,61,3,No,46,Yes
+EMP11466,Female,41,Technology,Senior Analyst,0.5,106397,37,3,No,73,Yes
+EMP11467,Female,39,Audit,Senior Manager,5.8,104509,46,3,Yes,39,No
+EMP11468,Female,30,Technology,Analyst,3.4,42769,64,4,No,6,Yes
+EMP11469,Male,23,Tax,Analyst,0.6,126584,43,4,No,11,Yes
+EMP11470,Male,34,Tax,Senior Analyst,0.9,71365,35,4,Yes,24,No
+EMP11471,Female,39,Advisory,Senior Analyst,4.8,75185,38,3,No,27,Yes
+EMP11472,Male,25,Audit,Analyst,1.8,158858,49,5,No,42,Yes
+EMP11473,Female,25,Consulting,Manager,3.3,151525,61,5,No,76,Yes
+EMP11474,Female,40,Tax,Analyst,1.1,157692,42,3,Yes,46,Yes
+EMP11475,Female,37,Audit,Analyst,1.4,61303,57,3,No,48,Yes
+EMP11476,Male,41,Tax,Analyst,14.0,44589,49,3,No,53,No
+EMP11477,Female,30,Audit,Analyst,0.9,27882,61,2,Yes,17,Yes
+EMP11478,Female,25,Audit,Analyst,2.1,154236,65,4,Yes,26,Yes
+EMP11479,Female,24,Audit,Senior Analyst,5.6,34745,42,3,Yes,71,Yes
+EMP11480,Male,26,Audit,Senior Analyst,0.8,40861,64,2,No,5,Yes
+EMP11481,Male,24,Consulting,Manager,1.6,116707,52,2,Yes,74,Yes
+EMP11482,Female,27,Audit,Analyst,2.9,79261,38,3,Yes,68,Yes
+EMP11483,Male,27,Technology,Analyst,2.0,158909,56,4,No,70,No
+EMP11484,Male,38,Advisory,Analyst,1.8,99135,37,3,No,21,Yes
+EMP11485,Male,23,Audit,Analyst,1.4,79380,49,4,No,58,Yes
+EMP11486,Male,21,Advisory,Senior Analyst,2.7,111089,69,3,No,46,Yes
+EMP11487,Male,44,Technology,Senior Analyst,2.9,130025,67,3,Yes,67,Yes
+EMP11488,Male,24,Tax,Manager,3.2,69397,48,3,No,31,No
+EMP11489,Male,26,Audit,Analyst,0.2,102085,35,4,Yes,0,Yes
+EMP11490,Male,29,Technology,Analyst,3.0,88865,60,2,No,53,Yes
+EMP11491,Male,42,Tax,Senior Analyst,9.2,80956,42,3,No,45,Yes
+EMP11492,Male,34,Audit,Analyst,2.3,125727,50,3,Yes,40,Yes
+EMP11493,Female,32,Audit,Senior Analyst,3.8,168978,44,3,No,40,No
+EMP11494,Female,40,Advisory,Senior Manager,2.4,39988,60,5,No,7,Yes
+EMP11495,Male,44,Audit,Analyst,5.8,58800,62,2,Yes,31,Yes
+EMP11496,Female,24,Tax,Manager,8.0,112329,46,3,No,29,No
+EMP11497,Female,41,Consulting,Senior Analyst,0.6,77284,54,3,No,45,Yes
+EMP11498,Male,44,Technology,Analyst,1.7,81232,48,4,No,51,Yes
+EMP11499,Male,32,Advisory,Senior Analyst,1.5,69420,69,3,No,60,Yes
+EMP11500,Male,30,Audit,Analyst,1.6,62710,63,4,No,12,Yes
+EMP11501,Female,42,Audit,Analyst,0.4,117035,46,4,Yes,39,Yes
+EMP11502,Female,27,Advisory,Senior Analyst,5.0,56283,52,3,Yes,60,Yes
+EMP11503,Male,23,Tax,Manager,0.1,50968,36,3,No,43,No
+EMP11504,Male,43,Tax,Analyst,2.3,87508,36,3,Yes,61,Yes
+EMP11505,Male,34,Consulting,Analyst,3.3,138435,51,4,No,43,No
+EMP11506,Female,44,Audit,Manager,0.7,110366,44,1,No,47,Yes
+EMP11507,Female,30,Audit,Manager,7.1,30738,52,3,Yes,73,No
+EMP11508,Female,36,Advisory,Senior Analyst,5.5,28098,56,4,Yes,58,No
+EMP11509,Female,36,Audit,Analyst,1.9,120424,53,3,No,56,Yes
+EMP11510,Male,42,Consulting,Manager,1.6,103672,35,3,No,10,Yes
+EMP11511,Male,30,Advisory,Analyst,0.8,63244,58,3,No,24,Yes
+EMP11512,Male,33,Technology,Senior Analyst,3.9,164325,59,2,No,60,Yes
+EMP11513,Male,26,Consulting,Analyst,0.4,79333,65,3,Yes,45,Yes
+EMP11514,Female,32,Audit,Senior Analyst,3.4,150349,65,3,No,53,Yes
+EMP11515,Female,29,Advisory,Analyst,5.5,75969,36,5,Yes,33,Yes
+EMP11516,Male,33,Advisory,Analyst,0.8,115744,53,3,No,6,Yes
+EMP11517,Male,24,Consulting,Analyst,6.0,142286,46,4,No,61,Yes
+EMP11518,Female,44,Technology,Analyst,0.1,100028,44,4,No,56,Yes
+EMP11519,Male,31,Tax,Senior Analyst,7.3,60421,65,1,No,75,Yes
+EMP11520,Female,40,Audit,Manager,0.4,157526,56,4,No,4,Yes
+EMP11521,Male,38,Audit,Senior Manager,3.1,173594,57,1,No,75,No
+EMP11522,Male,31,Consulting,Analyst,0.9,63575,57,5,No,34,Yes
+EMP11523,Male,41,Tax,Senior Analyst,5.4,28192,49,4,No,36,Yes
+EMP11524,Male,24,Audit,Senior Analyst,2.2,136116,60,3,No,59,No
+EMP11525,Male,38,Advisory,Analyst,0.4,152874,37,3,No,64,Yes
+EMP11526,Male,21,Advisory,Analyst,2.5,106311,57,3,Yes,15,Yes
+EMP11527,Male,27,Audit,Senior Analyst,1.6,166474,54,3,Yes,29,Yes
+EMP11528,Female,26,Advisory,Manager,3.2,105781,42,3,Yes,72,Yes
+EMP11529,Female,35,Technology,Senior Analyst,6.4,61527,52,3,No,41,No
+EMP11530,Female,38,Audit,Analyst,1.6,77181,40,4,Yes,60,Yes
+EMP11531,Female,44,Consulting,Senior Analyst,1.0,116472,61,2,No,73,Yes
+EMP11532,Female,31,Consulting,Analyst,0.0,106219,49,4,No,76,Yes
+EMP11533,Male,40,Technology,Manager,2.6,168532,39,4,Yes,47,No
+EMP11534,Male,44,Technology,Senior Analyst,1.5,144783,43,3,No,61,Yes
+EMP11535,Female,35,Consulting,Analyst,1.4,172519,41,4,Yes,63,Yes
+EMP11536,Male,36,Tax,Manager,0.6,108265,54,3,No,56,Yes
+EMP11537,Female,27,Consulting,Analyst,1.7,75126,44,1,No,67,No
+EMP11538,Female,41,Consulting,Senior Manager,12.5,45545,60,4,No,45,No
+EMP11539,Male,30,Consulting,Analyst,1.1,80114,38,3,Yes,27,Yes
+EMP11540,Male,32,Audit,Analyst,2.7,118740,58,3,No,76,Yes
+EMP11541,Male,44,Consulting,Analyst,4.5,38890,48,4,No,2,Yes
+EMP11542,Female,34,Advisory,Analyst,4.1,146284,35,5,No,36,No
+EMP11543,Male,25,Audit,Analyst,1.2,77482,51,4,No,47,Yes
+EMP11544,Female,41,Technology,Senior Analyst,2.8,157812,58,4,Yes,18,No
+EMP11545,Female,38,Audit,Senior Analyst,6.1,167290,61,2,No,16,No
+EMP11546,Female,25,Audit,Senior Analyst,0.0,96591,41,2,No,39,Yes
+EMP11547,Male,23,Consulting,Analyst,1.7,113241,43,4,Yes,49,Yes
+EMP11548,Male,43,Tax,Senior Analyst,0.8,59722,69,3,No,72,Yes
+EMP11549,Female,25,Audit,Analyst,1.5,74431,46,3,No,28,Yes
+EMP11550,Male,44,Consulting,Senior Analyst,1.6,67000,55,3,No,50,No
+EMP11551,Male,37,Technology,Analyst,4.1,96975,37,4,Yes,41,No
+EMP11552,Male,39,Consulting,Manager,0.3,55921,49,2,Yes,28,Yes
+EMP11553,Female,39,Consulting,Senior Analyst,2.2,124265,55,4,No,65,Yes
+EMP11554,Female,41,Tax,Senior Analyst,2.5,113747,44,2,No,16,No
+EMP11555,Male,32,Audit,Analyst,2.0,42601,67,2,Yes,30,No
+EMP11556,Female,29,Consulting,Analyst,3.9,118332,40,3,No,51,No
+EMP11557,Male,21,Consulting,Analyst,1.5,148254,36,3,Yes,38,Yes
+EMP11558,Male,38,Consulting,Manager,8.7,176586,63,4,No,59,No
+EMP11559,Male,41,Consulting,Manager,2.0,144004,67,2,No,50,No
+EMP11560,Male,24,Audit,Analyst,2.5,172364,38,2,No,15,No
+EMP11561,Female,30,Consulting,Senior Analyst,5.2,53000,38,3,No,13,No
+EMP11562,Female,27,Audit,Senior Analyst,1.0,155439,63,3,No,41,Yes
+EMP11563,Female,42,Tax,Senior Analyst,0.2,144277,54,1,No,50,Yes
+EMP11564,Male,43,Consulting,Analyst,3.7,55383,57,1,No,23,Yes
+EMP11565,Male,21,Consulting,Analyst,2.0,167857,52,5,No,42,Yes
+EMP11566,Male,37,Technology,Analyst,6.8,65910,59,4,Yes,72,No
+EMP11567,Female,44,Advisory,Manager,12.2,49281,35,3,No,18,Yes
+EMP11568,Male,22,Audit,Senior Analyst,1.5,138838,49,3,Yes,60,No
+EMP11569,Female,31,Technology,Senior Analyst,1.6,29841,68,3,No,62,Yes
+EMP11570,Female,29,Audit,Manager,1.6,122204,54,3,Yes,25,No
+EMP11571,Female,27,Audit,Senior Analyst,1.2,85155,61,4,No,34,Yes
+EMP11572,Female,42,Tax,Manager,4.6,81313,56,4,Yes,66,Yes
+EMP11573,Female,37,Consulting,Senior Analyst,4.3,136688,39,2,No,55,Yes
+EMP11574,Female,37,Consulting,Analyst,2.0,173515,68,4,No,39,Yes
+EMP11575,Male,22,Audit,Manager,0.1,157994,37,2,No,28,Yes
+EMP11576,Male,26,Consulting,Senior Analyst,1.1,56976,51,3,No,5,Yes
+EMP11577,Female,34,Consulting,Analyst,1.0,168063,58,1,No,51,Yes
+EMP11578,Female,26,Technology,Analyst,5.0,129405,58,2,No,0,Yes
+EMP11579,Male,22,Audit,Analyst,0.3,78744,37,5,No,51,Yes
+EMP11580,Female,21,Technology,Senior Analyst,4.9,178805,41,3,No,23,Yes
+EMP11581,Female,30,Advisory,Manager,3.3,27473,59,2,Yes,33,No
+EMP11582,Male,41,Tax,Manager,4.0,164180,37,5,No,6,Yes
+EMP11583,Female,25,Tax,Manager,1.7,53715,49,4,No,74,Yes
+EMP11584,Female,22,Advisory,Analyst,3.4,62317,63,4,No,10,No
+EMP11585,Female,42,Consulting,Analyst,2.8,90516,63,5,No,35,Yes
+EMP11586,Male,36,Audit,Analyst,4.4,79604,44,3,No,19,Yes
+EMP11587,Male,22,Audit,Manager,1.8,29889,66,4,Yes,62,Yes
+EMP11588,Male,30,Technology,Analyst,1.9,98748,57,4,No,79,Yes
+EMP11589,Female,22,Tax,Senior Analyst,3.1,56971,43,4,No,62,No
+EMP11590,Female,36,Consulting,Senior Analyst,0.3,75551,48,4,No,68,Yes
+EMP11591,Male,36,Audit,Analyst,1.7,159273,38,3,No,29,Yes
+EMP11592,Female,39,Consulting,Analyst,10.7,133957,54,4,Yes,29,No
+EMP11593,Female,27,Advisory,Senior Manager,0.1,114882,62,3,No,21,Yes
+EMP11594,Female,42,Consulting,Senior Manager,1.1,62958,48,3,Yes,60,Yes
+EMP11595,Female,32,Tax,Analyst,1.1,30681,68,2,No,20,Yes
+EMP11596,Female,44,Technology,Senior Analyst,3.0,126982,47,5,No,36,No
+EMP11597,Male,35,Audit,Senior Manager,0.3,71870,65,3,No,26,Yes
+EMP11598,Female,28,Consulting,Analyst,3.0,153396,67,3,No,34,Yes
+EMP11599,Male,26,Consulting,Analyst,0.3,92203,62,3,No,37,Yes
+EMP11600,Female,30,Consulting,Analyst,0.3,75061,59,5,Yes,59,Yes
+EMP11601,Male,23,Audit,Senior Analyst,3.9,83235,66,3,No,69,Yes
+EMP11602,Female,39,Audit,Analyst,1.2,62890,43,4,Yes,31,Yes
+EMP11603,Male,37,Technology,Analyst,11.4,115073,62,4,No,79,Yes
+EMP11604,Female,27,Consulting,Analyst,0.1,86401,65,3,Yes,79,Yes
+EMP11605,Male,41,Consulting,Senior Analyst,1.8,36217,51,3,No,26,Yes
+EMP11606,Female,40,Technology,Senior Manager,0.4,73351,57,4,Yes,2,Yes
+EMP11607,Male,24,Tax,Manager,1.3,58741,47,5,No,48,Yes
+EMP11608,Female,34,Audit,Manager,19.0,176726,44,4,No,29,No
+EMP11609,Male,40,Advisory,Senior Analyst,6.6,26408,50,3,No,21,No
+EMP11610,Male,42,Consulting,Analyst,0.1,67903,40,4,No,18,Yes
+EMP11611,Female,35,Tax,Analyst,2.5,132042,45,3,No,30,No
+EMP11612,Female,44,Tax,Manager,3.1,157290,37,3,No,19,No
+EMP11613,Male,28,Advisory,Analyst,0.7,147189,62,4,No,18,Yes
+EMP11614,Female,41,Consulting,Analyst,0.5,134268,49,2,No,1,Yes
+EMP11615,Male,35,Tax,Senior Analyst,7.0,55105,47,4,No,39,No
+EMP11616,Male,42,Audit,Analyst,10.4,94634,51,3,Yes,38,No
+EMP11617,Male,40,Audit,Analyst,14.4,142426,41,4,No,71,Yes
+EMP11618,Female,34,Consulting,Senior Manager,4.7,163691,62,2,No,53,Yes
+EMP11619,Male,29,Audit,Manager,3.3,168011,47,3,Yes,26,No
+EMP11620,Male,28,Audit,Analyst,1.3,43226,51,4,No,78,No
+EMP11621,Female,37,Tax,Senior Manager,0.6,50322,49,1,No,11,Yes
+EMP11622,Female,22,Technology,Senior Analyst,0.2,142504,62,2,Yes,77,Yes
+EMP11623,Female,44,Consulting,Senior Analyst,3.5,83215,49,5,No,70,Yes
+EMP11624,Female,23,Consulting,Analyst,4.6,172950,45,3,No,16,No
+EMP11625,Male,28,Consulting,Analyst,5.3,162632,65,5,Yes,9,Yes
+EMP11626,Male,32,Consulting,Senior Analyst,7.4,119835,38,2,No,18,Yes
+EMP11627,Male,21,Audit,Manager,6.4,98079,69,3,No,29,Yes
+EMP11628,Male,30,Technology,Senior Analyst,24.8,48946,68,4,Yes,29,No
+EMP11629,Female,40,Audit,Analyst,0.8,135733,61,4,No,24,Yes
+EMP11630,Male,23,Consulting,Analyst,4.3,32253,44,3,No,73,Yes
+EMP11631,Male,26,Audit,Manager,2.6,104311,64,3,No,65,Yes
+EMP11632,Female,27,Technology,Analyst,0.9,57813,54,4,No,34,No
+EMP11633,Male,40,Tax,Senior Analyst,12.0,73365,63,3,No,50,Yes
+EMP11634,Male,43,Technology,Analyst,6.8,92593,63,3,No,70,No
+EMP11635,Male,38,Tax,Analyst,0.4,174485,57,2,Yes,70,Yes
+EMP11636,Male,31,Consulting,Senior Analyst,0.1,63485,55,3,No,26,Yes
+EMP11637,Male,39,Audit,Senior Analyst,3.5,136504,44,3,No,9,No
+EMP11638,Male,25,Advisory,Analyst,2.8,41101,46,3,Yes,42,Yes
+EMP11639,Female,39,Consulting,Analyst,8.2,33831,64,3,No,54,Yes
+EMP11640,Female,31,Advisory,Manager,0.8,76897,67,1,Yes,70,Yes
+EMP11641,Male,44,Audit,Analyst,0.3,30004,52,2,No,5,Yes
+EMP11642,Male,32,Audit,Senior Analyst,0.9,70924,48,4,No,5,Yes
+EMP11643,Female,30,Consulting,Senior Manager,0.1,177581,56,3,No,76,Yes
+EMP11644,Male,28,Advisory,Analyst,0.1,62170,55,4,Yes,47,Yes
+EMP11645,Male,44,Tax,Manager,7.4,68555,35,4,No,76,No
+EMP11646,Male,29,Audit,Analyst,1.3,170734,49,1,Yes,1,Yes
+EMP11647,Female,24,Consulting,Senior Analyst,1.6,143115,56,4,No,50,Yes
+EMP11648,Male,25,Audit,Analyst,0.1,129216,66,2,No,60,Yes
+EMP11649,Female,41,Audit,Senior Manager,0.9,90930,67,4,No,18,Yes
+EMP11650,Male,28,Consulting,Analyst,4.9,61365,57,5,No,1,Yes
+EMP11651,Female,43,Audit,Analyst,2.9,87188,36,3,No,50,Yes
+EMP11652,Female,29,Audit,Senior Manager,4.2,123633,36,4,Yes,25,No
+EMP11653,Male,35,Consulting,Senior Analyst,1.8,88471,63,3,No,69,Yes
+EMP11654,Female,35,Consulting,Senior Analyst,1.1,173228,37,3,No,19,Yes
+EMP11655,Male,36,Audit,Analyst,2.0,82287,41,4,No,22,No
+EMP11656,Female,34,Audit,Senior Analyst,1.2,157717,63,2,Yes,53,Yes
+EMP11657,Male,28,Audit,Analyst,5.5,84076,57,3,No,14,Yes
+EMP11658,Male,38,Audit,Analyst,1.1,141475,50,3,No,5,Yes
+EMP11659,Female,30,Advisory,Senior Analyst,3.2,75151,65,4,No,34,No
+EMP11660,Male,40,Consulting,Analyst,0.4,92384,68,3,No,74,Yes
+EMP11661,Male,26,Consulting,Senior Manager,3.5,124865,35,5,No,7,Yes
+EMP11662,Female,32,Consulting,Manager,7.3,58541,52,2,Yes,56,No
+EMP11663,Male,22,Advisory,Senior Analyst,2.8,97847,49,3,Yes,49,No
+EMP11664,Male,27,Technology,Manager,2.5,75955,51,4,No,48,No
+EMP11665,Female,36,Tax,Senior Analyst,9.7,165362,44,3,No,20,Yes
+EMP11666,Female,23,Tax,Analyst,3.0,112780,54,4,No,35,Yes
+EMP11667,Male,33,Consulting,Manager,0.9,124919,40,2,No,70,Yes
+EMP11668,Male,23,Advisory,Analyst,1.0,137854,42,2,No,68,Yes
+EMP11669,Female,38,Advisory,Analyst,3.7,86768,68,2,No,57,Yes
+EMP11670,Female,31,Audit,Manager,4.0,68262,66,5,No,62,Yes
+EMP11671,Male,28,Audit,Senior Analyst,1.1,161578,38,3,No,15,Yes
+EMP11672,Female,26,Consulting,Manager,1.3,45605,54,4,No,5,Yes
+EMP11673,Male,21,Technology,Analyst,14.2,103590,58,3,No,77,Yes
+EMP11674,Male,21,Consulting,Senior Analyst,0.3,53231,58,3,Yes,51,Yes
+EMP11675,Male,43,Tax,Analyst,1.6,104397,60,3,Yes,1,Yes
+EMP11676,Male,28,Consulting,Senior Analyst,0.2,102123,59,5,No,76,Yes
+EMP11677,Male,25,Consulting,Manager,5.2,38515,41,4,No,17,Yes
+EMP11678,Female,36,Audit,Senior Analyst,0.3,112211,44,4,No,75,Yes
+EMP11679,Female,31,Audit,Analyst,3.4,41600,46,1,No,34,No
+EMP11680,Female,25,Tax,Analyst,0.2,94310,35,3,Yes,38,Yes
+EMP11681,Female,24,Advisory,Analyst,3.4,177873,59,3,Yes,0,Yes
+EMP11682,Male,26,Consulting,Senior Analyst,5.6,160501,50,5,No,36,Yes
+EMP11683,Male,34,Tax,Manager,1.5,160678,39,3,No,20,Yes
+EMP11684,Male,42,Audit,Analyst,2.2,160550,53,3,No,0,Yes
+EMP11685,Male,39,Technology,Senior Analyst,1.5,139380,38,3,Yes,3,Yes
+EMP11686,Female,29,Consulting,Manager,1.1,136780,40,3,No,57,No
+EMP11687,Male,32,Consulting,Senior Analyst,4.9,91177,60,2,No,0,No
+EMP11688,Male,31,Consulting,Senior Analyst,1.0,177802,43,4,No,12,Yes
+EMP11689,Female,34,Audit,Manager,3.9,177185,48,3,No,45,Yes
+EMP11690,Female,43,Audit,Analyst,0.7,176083,43,4,Yes,46,No
+EMP11691,Female,36,Advisory,Analyst,0.9,80746,49,4,No,75,Yes
+EMP11692,Female,21,Technology,Analyst,1.2,148075,54,3,No,6,Yes
+EMP11693,Male,33,Tax,Senior Manager,2.7,110195,42,3,No,50,Yes
+EMP11694,Male,43,Audit,Manager,1.8,61818,66,2,No,2,Yes
+EMP11695,Female,41,Consulting,Manager,4.1,46309,55,5,Yes,49,No
+EMP11696,Male,41,Audit,Analyst,0.7,174760,53,3,No,25,Yes
+EMP11697,Male,33,Audit,Analyst,0.0,53176,63,3,No,30,Yes
+EMP11698,Male,22,Advisory,Analyst,4.5,93879,65,3,Yes,61,No
+EMP11699,Female,24,Consulting,Analyst,5.2,92592,40,3,Yes,25,No
+EMP11700,Male,26,Audit,Senior Analyst,0.2,109728,38,3,No,66,No
+EMP11701,Female,43,Audit,Senior Manager,2.8,165488,63,3,Yes,54,No
+EMP11702,Male,25,Technology,Manager,1.4,33584,37,4,No,27,Yes
+EMP11703,Male,23,Audit,Senior Analyst,4.7,149555,35,4,No,43,No
+EMP11704,Male,21,Consulting,Analyst,6.2,118302,49,3,No,37,Yes
+EMP11705,Female,24,Consulting,Analyst,5.7,147408,55,3,No,29,No
+EMP11706,Male,40,Audit,Analyst,4.5,43830,65,4,Yes,65,Yes
+EMP11707,Female,22,Audit,Manager,0.9,102066,41,2,Yes,7,Yes
+EMP11708,Female,25,Consulting,Manager,5.0,28591,51,4,No,13,No
+EMP11709,Female,23,Tax,Analyst,2.3,118878,53,3,No,61,No
+EMP11710,Male,29,Consulting,Analyst,0.2,150407,37,4,No,74,No
+EMP11711,Male,40,Advisory,Analyst,1.8,141869,64,3,No,62,Yes
+EMP11712,Male,26,Technology,Analyst,8.6,46395,69,3,Yes,78,Yes
+EMP11713,Male,38,Tax,Senior Analyst,6.6,41738,63,4,Yes,65,Yes
+EMP11714,Female,26,Consulting,Analyst,0.3,158703,48,2,No,39,Yes
+EMP11715,Female,39,Consulting,Senior Analyst,4.1,173977,69,3,No,12,Yes
+EMP11716,Female,32,Advisory,Manager,4.9,44056,62,3,No,16,No
+EMP11717,Male,31,Advisory,Senior Analyst,0.9,146656,64,4,Yes,14,Yes
+EMP11718,Female,22,Consulting,Analyst,1.9,140316,60,3,Yes,32,Yes
+EMP11719,Male,35,Advisory,Analyst,3.7,79418,41,4,No,15,No
+EMP11720,Female,32,Audit,Senior Analyst,1.7,62190,65,3,No,12,Yes
+EMP11721,Male,32,Consulting,Analyst,0.4,51014,39,2,No,22,Yes
+EMP11722,Male,29,Consulting,Analyst,3.7,150563,69,4,No,35,Yes
+EMP11723,Female,41,Audit,Senior Analyst,7.3,26780,48,2,No,42,No
+EMP11724,Female,44,Audit,Senior Analyst,3.2,67192,61,3,No,49,Yes
+EMP11725,Female,22,Advisory,Manager,4.5,129875,58,2,No,73,Yes
+EMP11726,Female,42,Consulting,Analyst,1.3,124129,63,3,Yes,12,Yes
+EMP11727,Male,23,Consulting,Manager,0.6,68923,56,4,No,29,Yes
+EMP11728,Female,32,Consulting,Analyst,3.1,114196,42,3,Yes,56,Yes
+EMP11729,Female,36,Consulting,Analyst,1.2,27395,49,3,Yes,29,Yes
+EMP11730,Female,41,Audit,Senior Analyst,5.9,127449,39,3,Yes,70,No
+EMP11731,Male,44,Advisory,Senior Analyst,0.4,146747,38,3,No,9,Yes
+EMP11732,Male,21,Tax,Manager,1.7,171851,45,3,No,65,Yes
+EMP11733,Female,41,Tax,Senior Analyst,1.5,96028,52,5,Yes,38,Yes
+EMP11734,Male,23,Advisory,Manager,8.3,163183,64,4,No,36,Yes
+EMP11735,Female,40,Consulting,Manager,0.5,166056,49,2,No,2,Yes
+EMP11736,Male,22,Audit,Senior Analyst,0.0,118176,40,1,No,33,Yes
+EMP11737,Male,29,Consulting,Senior Analyst,0.8,51924,50,5,No,37,Yes
+EMP11738,Male,39,Audit,Senior Analyst,5.1,57577,43,3,Yes,13,No
+EMP11739,Male,35,Technology,Senior Manager,0.7,163783,68,3,Yes,63,Yes
+EMP11740,Female,38,Audit,Manager,0.8,110548,61,4,No,38,Yes
+EMP11741,Female,31,Audit,Analyst,0.4,150093,47,3,No,53,Yes
+EMP11742,Female,43,Technology,Manager,3.8,160168,61,3,No,1,No
+EMP11743,Male,36,Technology,Analyst,0.2,91555,43,5,No,42,Yes
+EMP11744,Female,42,Tax,Analyst,1.2,114848,39,4,No,52,Yes
+EMP11745,Female,37,Audit,Analyst,1.0,33254,56,2,No,2,Yes
+EMP11746,Female,25,Audit,Senior Analyst,2.4,150410,65,2,No,40,Yes
+EMP11747,Male,32,Consulting,Manager,3.9,162037,37,3,Yes,7,Yes
+EMP11748,Male,31,Audit,Analyst,2.3,128025,64,4,No,74,Yes
+EMP11749,Male,35,Audit,Analyst,8.0,155509,55,3,Yes,62,Yes
+EMP11750,Female,23,Consulting,Analyst,9.1,57963,69,1,Yes,64,Yes
+EMP11751,Female,21,Technology,Senior Analyst,1.3,28273,40,5,Yes,78,Yes
+EMP11752,Female,40,Consulting,Analyst,4.5,40330,62,2,No,3,No
+EMP11753,Male,36,Advisory,Analyst,4.0,177566,66,1,Yes,67,Yes
+EMP11754,Male,22,Advisory,Analyst,6.7,101422,59,3,Yes,9,Yes
+EMP11755,Female,22,Consulting,Senior Analyst,1.8,147089,66,3,No,74,Yes
+EMP11756,Male,23,Advisory,Analyst,2.3,28212,69,3,No,49,Yes
+EMP11757,Male,28,Audit,Senior Analyst,1.6,112594,56,5,No,22,Yes
+EMP11758,Male,44,Audit,Analyst,5.7,157152,58,4,No,60,Yes
+EMP11759,Male,35,Tax,Senior Analyst,0.8,57675,64,3,Yes,46,Yes
+EMP11760,Female,27,Audit,Analyst,0.8,47007,66,3,Yes,2,Yes
+EMP11761,Male,26,Technology,Senior Analyst,1.4,138805,65,3,Yes,16,Yes
+EMP11762,Male,29,Audit,Analyst,0.8,107641,57,3,No,21,Yes
+EMP11763,Male,40,Advisory,Senior Analyst,2.5,120815,67,2,No,15,Yes
+EMP11764,Male,21,Consulting,Manager,0.4,71815,59,5,Yes,79,Yes
+EMP11765,Female,28,Audit,Manager,1.2,108482,58,2,No,2,Yes
+EMP11766,Female,43,Audit,Senior Analyst,7.3,25639,65,2,No,51,Yes
+EMP11767,Male,43,Advisory,Senior Analyst,1.6,88593,47,3,No,32,Yes
+EMP11768,Male,23,Tax,Manager,4.1,103038,44,3,No,41,Yes
+EMP11769,Male,24,Tax,Senior Analyst,0.4,118899,57,1,Yes,1,Yes
+EMP11770,Male,35,Consulting,Analyst,0.9,28736,52,2,Yes,38,Yes
+EMP11771,Male,26,Tax,Manager,4.9,41473,66,3,No,45,Yes
+EMP11772,Male,35,Advisory,Analyst,4.3,153771,67,4,No,47,Yes
+EMP11773,Female,41,Tax,Analyst,1.5,150801,62,3,No,26,Yes
+EMP11774,Male,23,Consulting,Analyst,9.3,132598,50,3,No,14,No
+EMP11775,Female,41,Advisory,Analyst,7.2,111623,50,3,No,6,Yes
+EMP11776,Female,41,Tax,Senior Analyst,9.8,61820,52,4,No,56,Yes
+EMP11777,Male,34,Consulting,Analyst,1.7,82589,42,3,Yes,41,Yes
+EMP11778,Female,40,Tax,Analyst,0.7,43414,50,2,No,8,Yes
+EMP11779,Female,34,Advisory,Analyst,3.0,152378,45,3,No,5,No
+EMP11780,Female,24,Audit,Senior Analyst,3.5,49220,40,4,No,56,Yes
+EMP11781,Female,32,Audit,Senior Analyst,0.4,85531,35,2,No,75,Yes
+EMP11782,Female,37,Consulting,Analyst,4.6,135002,46,3,No,29,Yes
+EMP11783,Female,27,Consulting,Analyst,0.1,34387,62,1,No,54,Yes
+EMP11784,Male,29,Tax,Analyst,2.0,101815,51,1,No,53,Yes
+EMP11785,Female,23,Audit,Manager,1.2,52584,35,3,No,26,Yes
+EMP11786,Female,33,Tax,Senior Analyst,4.0,69783,66,3,No,58,Yes
+EMP11787,Female,35,Technology,Senior Analyst,1.1,149494,42,4,No,6,Yes
+EMP11788,Male,38,Audit,Analyst,5.3,140814,58,4,No,39,Yes
+EMP11789,Female,39,Technology,Senior Analyst,2.7,155752,44,3,No,71,No
+EMP11790,Male,21,Technology,Senior Analyst,4.7,166929,44,3,No,1,Yes
+EMP11791,Female,26,Tax,Analyst,13.6,98588,59,3,No,13,Yes
+EMP11792,Male,43,Tax,Analyst,3.4,173067,44,1,No,9,Yes
+EMP11793,Male,22,Technology,Analyst,12.6,38580,53,4,No,49,Yes
+EMP11794,Female,44,Advisory,Manager,0.1,43240,49,5,Yes,17,Yes
+EMP11795,Female,34,Consulting,Manager,1.2,108446,50,2,No,17,Yes
+EMP11796,Male,26,Tax,Senior Analyst,0.3,129533,36,2,No,15,No
+EMP11797,Female,34,Advisory,Senior Analyst,0.9,105974,63,2,No,51,Yes
+EMP11798,Male,24,Advisory,Analyst,5.5,98401,38,4,No,68,Yes
+EMP11799,Male,41,Consulting,Senior Analyst,0.1,168283,63,4,No,51,Yes
+EMP11800,Male,28,Tax,Senior Analyst,2.2,28646,65,4,Yes,30,Yes
+EMP11801,Male,23,Audit,Analyst,2.5,67816,51,4,No,22,No
+EMP11802,Male,39,Technology,Manager,2.5,114460,44,3,Yes,41,No
+EMP11803,Female,34,Consulting,Analyst,1.9,69112,61,4,No,61,Yes
+EMP11804,Male,40,Audit,Analyst,4.7,76048,49,4,No,76,No
+EMP11805,Male,37,Consulting,Senior Analyst,0.4,157850,65,3,No,49,Yes
+EMP11806,Female,28,Audit,Senior Analyst,1.1,70752,55,3,No,76,Yes
+EMP11807,Male,44,Advisory,Senior Analyst,2.9,95726,60,4,No,14,Yes
+EMP11808,Female,34,Technology,Analyst,3.5,69788,51,3,Yes,43,No
+EMP11809,Female,26,Tax,Manager,1.6,29747,37,4,Yes,41,Yes
+EMP11810,Female,43,Audit,Senior Analyst,6.2,25045,48,4,No,44,Yes
+EMP11811,Male,42,Audit,Senior Analyst,1.6,32758,47,4,No,34,Yes
+EMP11812,Male,36,Tax,Senior Manager,1.5,150076,61,4,No,21,Yes
+EMP11813,Male,39,Technology,Senior Analyst,0.1,179509,35,3,Yes,73,Yes
+EMP11814,Female,34,Consulting,Analyst,2.4,175657,51,4,Yes,74,No
+EMP11815,Male,39,Consulting,Manager,3.7,165926,68,3,Yes,37,No
+EMP11816,Female,23,Consulting,Analyst,0.4,81950,48,3,Yes,69,Yes
+EMP11817,Male,30,Technology,Analyst,1.1,173421,51,1,No,63,Yes
+EMP11818,Female,39,Advisory,Analyst,4.6,177420,37,3,Yes,6,Yes
+EMP11819,Male,29,Consulting,Senior Manager,1.4,44455,68,3,No,43,Yes
+EMP11820,Male,40,Consulting,Analyst,0.8,113552,59,5,Yes,75,Yes
+EMP11821,Male,33,Technology,Senior Analyst,3.3,71116,36,3,No,6,No
+EMP11822,Female,27,Audit,Analyst,0.7,145461,68,3,No,65,Yes
+EMP11823,Female,34,Consulting,Senior Analyst,6.8,65484,60,3,Yes,59,Yes
+EMP11824,Male,29,Advisory,Senior Analyst,0.3,106638,65,2,No,0,Yes
+EMP11825,Male,43,Audit,Senior Analyst,3.7,159476,43,4,No,61,Yes
+EMP11826,Female,39,Audit,Analyst,2.1,125647,64,3,Yes,17,Yes
+EMP11827,Female,35,Tax,Senior Analyst,6.1,90642,54,4,No,6,Yes
+EMP11828,Female,40,Technology,Senior Manager,0.4,71009,55,4,No,53,Yes
+EMP11829,Male,34,Tax,Senior Analyst,3.4,153824,63,3,No,66,No
+EMP11830,Female,44,Technology,Senior Analyst,2.5,54605,59,4,No,9,Yes
+EMP11831,Male,26,Advisory,Manager,2.0,135879,59,3,No,60,Yes
+EMP11832,Female,41,Tax,Analyst,2.0,145827,43,3,Yes,58,Yes
+EMP11833,Male,24,Consulting,Senior Analyst,3.8,30580,60,4,No,58,Yes
+EMP11834,Female,28,Advisory,Manager,8.3,139902,50,4,Yes,68,Yes
+EMP11835,Female,37,Technology,Analyst,0.3,30400,46,2,No,62,Yes
+EMP11836,Female,29,Audit,Senior Analyst,0.1,121032,58,1,No,7,Yes
+EMP11837,Female,21,Consulting,Analyst,4.9,152319,60,2,Yes,77,No
+EMP11838,Female,44,Consulting,Senior Analyst,0.3,131960,54,3,No,54,Yes
+EMP11839,Male,40,Audit,Senior Analyst,13.0,64015,43,5,No,5,Yes
+EMP11840,Female,34,Audit,Analyst,2.9,96713,57,3,No,0,Yes
+EMP11841,Female,31,Tax,Senior Analyst,3.2,171046,63,3,No,55,Yes
+EMP11842,Female,41,Technology,Analyst,0.7,170109,65,4,No,74,Yes
+EMP11843,Male,23,Consulting,Analyst,0.8,172239,53,3,No,9,Yes
+EMP11844,Female,29,Audit,Analyst,3.2,113754,54,3,No,22,Yes
+EMP11845,Male,34,Audit,Manager,7.2,68148,57,5,No,15,Yes
+EMP11846,Female,29,Technology,Analyst,12.1,177606,61,4,Yes,15,Yes
+EMP11847,Female,24,Consulting,Manager,0.7,147790,64,4,Yes,55,Yes
+EMP11848,Male,24,Consulting,Senior Analyst,0.4,111078,55,3,No,5,Yes
+EMP11849,Female,28,Consulting,Analyst,0.2,81879,69,4,No,29,Yes
+EMP11850,Male,22,Consulting,Senior Analyst,6.1,144894,41,2,No,62,Yes
+EMP11851,Male,29,Consulting,Senior Analyst,1.0,90839,56,3,No,0,Yes
+EMP11852,Female,34,Technology,Senior Analyst,0.0,54756,44,5,Yes,50,Yes
+EMP11853,Male,42,Advisory,Analyst,0.8,168755,57,3,Yes,45,Yes
+EMP11854,Female,29,Advisory,Analyst,1.2,167097,49,4,No,20,Yes
+EMP11855,Female,44,Consulting,Analyst,14.1,174787,64,3,Yes,37,No
+EMP11856,Male,43,Tax,Analyst,2.2,117943,68,1,No,68,Yes
+EMP11857,Male,36,Advisory,Analyst,0.7,173188,47,4,No,62,Yes
+EMP11858,Male,37,Audit,Analyst,1.2,61744,38,2,Yes,49,No
+EMP11859,Male,36,Advisory,Analyst,1.2,149697,52,4,Yes,11,Yes
+EMP11860,Female,32,Consulting,Analyst,0.1,141072,57,2,No,68,Yes
+EMP11861,Female,23,Tax,Analyst,0.4,158196,67,5,No,72,Yes
+EMP11862,Male,31,Consulting,Analyst,3.6,32176,68,3,No,43,Yes
+EMP11863,Female,34,Technology,Senior Manager,0.4,116310,68,3,No,51,Yes
+EMP11864,Female,38,Audit,Analyst,0.8,174748,69,2,No,8,Yes
+EMP11865,Female,41,Tax,Senior Analyst,1.3,70177,51,5,Yes,64,No
+EMP11866,Female,41,Advisory,Analyst,4.3,135623,62,4,Yes,9,No
+EMP11867,Male,25,Tax,Manager,2.6,25997,48,4,No,45,Yes
+EMP11868,Male,36,Consulting,Analyst,3.5,145179,68,3,Yes,57,No
+EMP11869,Female,40,Consulting,Senior Manager,2.5,145403,45,3,Yes,36,No
+EMP11870,Male,25,Tax,Senior Analyst,3.5,167303,47,2,No,51,No
+EMP11871,Male,23,Audit,Analyst,0.0,120287,67,3,No,12,Yes
+EMP11872,Male,32,Audit,Manager,8.0,144574,36,3,Yes,5,No
+EMP11873,Female,21,Advisory,Senior Analyst,0.4,146509,68,5,No,57,Yes
+EMP11874,Female,41,Consulting,Analyst,1.6,110447,63,4,No,47,Yes
+EMP11875,Female,29,Consulting,Manager,4.4,134522,38,3,Yes,31,Yes
+EMP11876,Male,29,Consulting,Manager,1.7,106144,46,2,No,10,Yes
+EMP11877,Female,24,Consulting,Senior Analyst,8.8,117693,60,4,Yes,4,Yes
+EMP11878,Female,23,Tax,Analyst,1.9,119315,62,2,No,5,Yes
+EMP11879,Male,37,Advisory,Manager,6.2,52387,37,2,Yes,73,Yes
+EMP11880,Female,22,Tax,Senior Analyst,5.0,29090,54,3,No,20,Yes
+EMP11881,Female,44,Technology,Manager,11.9,145846,44,3,Yes,41,No
+EMP11882,Male,21,Consulting,Senior Analyst,7.8,65239,52,4,No,26,Yes
+EMP11883,Male,28,Audit,Analyst,6.9,28743,61,3,No,2,Yes
+EMP11884,Male,33,Audit,Manager,3.9,55924,65,2,No,59,Yes
+EMP11885,Female,43,Consulting,Analyst,1.4,166268,61,3,No,65,Yes
+EMP11886,Female,35,Technology,Analyst,0.3,155160,35,4,Yes,48,No
+EMP11887,Female,28,Consulting,Senior Analyst,3.5,116815,40,3,No,33,Yes
+EMP11888,Male,32,Consulting,Senior Analyst,11.5,130312,45,3,Yes,36,No
+EMP11889,Male,42,Consulting,Analyst,3.9,93860,68,5,No,41,Yes
+EMP11890,Female,32,Advisory,Manager,7.9,105399,54,5,Yes,64,Yes
+EMP11891,Female,34,Advisory,Analyst,4.9,73795,55,5,No,59,Yes
+EMP11892,Male,35,Audit,Analyst,0.5,76553,55,4,No,0,No
+EMP11893,Male,35,Technology,Manager,0.9,128976,52,2,No,58,No
+EMP11894,Male,29,Consulting,Analyst,1.3,138566,55,3,Yes,3,No
+EMP11895,Male,39,Audit,Analyst,0.6,144968,53,3,No,13,Yes
+EMP11896,Female,40,Technology,Analyst,2.6,86600,38,3,No,17,Yes
+EMP11897,Male,42,Audit,Senior Manager,11.1,75022,47,5,No,33,Yes
+EMP11898,Female,28,Technology,Analyst,4.3,159271,52,4,No,0,Yes
+EMP11899,Female,41,Technology,Analyst,1.7,75897,63,4,No,52,Yes
+EMP11900,Female,39,Tax,Senior Analyst,0.0,63038,59,2,No,21,Yes
+EMP11901,Male,26,Tax,Senior Analyst,1.1,148323,47,5,Yes,79,No
+EMP11902,Male,40,Consulting,Analyst,2.2,145278,61,4,No,60,No
+EMP11903,Male,39,Technology,Senior Analyst,1.2,136054,53,2,No,21,Yes
+EMP11904,Male,24,Consulting,Analyst,0.4,32897,35,4,No,49,Yes
+EMP11905,Female,43,Tax,Senior Manager,1.8,89541,53,3,No,15,Yes
+EMP11906,Male,27,Technology,Analyst,0.9,131968,35,2,No,27,Yes
+EMP11907,Male,24,Technology,Analyst,7.2,39892,51,4,No,69,Yes
+EMP11908,Female,42,Tax,Analyst,0.3,164343,55,4,No,41,Yes
+EMP11909,Male,32,Consulting,Analyst,0.2,49815,56,2,No,65,Yes
+EMP11910,Female,33,Technology,Senior Analyst,0.0,70612,49,3,No,70,Yes
+EMP11911,Female,23,Advisory,Analyst,1.2,41267,66,5,No,34,Yes
+EMP11912,Female,42,Technology,Analyst,3.2,43268,38,4,Yes,19,No
+EMP11913,Female,32,Advisory,Senior Analyst,3.9,139463,66,4,Yes,1,Yes
+EMP11914,Female,22,Consulting,Senior Analyst,1.8,170335,38,3,Yes,6,Yes
+EMP11915,Female,44,Consulting,Analyst,3.5,120347,35,2,No,48,Yes
+EMP11916,Female,22,Advisory,Analyst,1.3,119542,67,3,No,75,Yes
+EMP11917,Female,43,Tax,Analyst,3.3,91612,41,3,No,8,Yes
+EMP11918,Male,29,Consulting,Analyst,0.1,163307,43,3,No,26,Yes
+EMP11919,Male,21,Advisory,Analyst,1.5,113757,35,2,No,77,Yes
+EMP11920,Male,28,Consulting,Senior Analyst,4.7,172489,50,3,No,1,No
+EMP11921,Male,43,Tax,Manager,4.9,123075,52,3,No,67,Yes
+EMP11922,Female,26,Consulting,Analyst,3.8,59609,40,4,Yes,59,No
+EMP11923,Male,26,Audit,Analyst,0.7,127785,36,2,Yes,48,No
+EMP11924,Female,42,Audit,Analyst,0.9,48645,43,3,Yes,1,Yes
+EMP11925,Male,38,Audit,Analyst,16.6,87233,38,1,Yes,16,No
+EMP11926,Male,37,Consulting,Analyst,0.3,136443,57,3,Yes,19,Yes
+EMP11927,Male,32,Audit,Manager,0.6,179473,42,2,No,75,Yes
+EMP11928,Female,26,Audit,Senior Analyst,0.4,32771,59,5,Yes,31,Yes
+EMP11929,Male,28,Technology,Senior Manager,1.2,127601,50,4,Yes,50,Yes
+EMP11930,Female,39,Technology,Manager,0.7,158014,69,3,Yes,41,Yes
+EMP11931,Female,30,Consulting,Senior Analyst,2.1,176460,51,2,No,62,No
+EMP11932,Male,21,Technology,Senior Analyst,1.9,150224,52,3,No,60,Yes
+EMP11933,Male,33,Audit,Analyst,7.0,108251,61,4,No,61,Yes
+EMP11934,Male,37,Advisory,Senior Analyst,0.1,82042,49,2,Yes,2,No
+EMP11935,Female,23,Advisory,Manager,1.2,78740,51,3,No,75,Yes
+EMP11936,Male,28,Consulting,Analyst,2.7,72024,39,4,Yes,25,Yes
+EMP11937,Female,34,Consulting,Manager,2.8,179522,50,4,Yes,47,No
+EMP11938,Female,23,Consulting,Analyst,2.0,81965,49,4,No,7,Yes
+EMP11939,Male,36,Consulting,Manager,5.1,35057,68,4,No,4,Yes
+EMP11940,Male,33,Tax,Manager,0.2,33983,53,5,No,10,Yes
+EMP11941,Female,40,Audit,Senior Analyst,5.1,155469,42,3,No,41,No
+EMP11942,Female,44,Audit,Senior Analyst,2.0,44995,44,3,No,40,Yes
+EMP11943,Female,37,Audit,Senior Analyst,0.4,139587,39,4,Yes,18,Yes
+EMP11944,Male,33,Consulting,Manager,6.5,63886,60,4,No,47,Yes
+EMP11945,Female,26,Consulting,Senior Manager,3.1,114025,56,5,Yes,52,Yes
+EMP11946,Male,37,Audit,Manager,0.5,120149,57,1,No,54,Yes
+EMP11947,Female,34,Technology,Senior Analyst,0.1,119020,47,3,Yes,60,Yes
+EMP11948,Female,37,Consulting,Senior Analyst,0.5,27673,43,3,No,31,Yes
+EMP11949,Male,28,Audit,Manager,2.8,102513,54,3,No,45,No
+EMP11950,Female,31,Advisory,Senior Analyst,0.6,48466,62,3,No,35,Yes
+EMP11951,Male,40,Audit,Manager,0.8,117545,58,4,Yes,17,Yes
+EMP11952,Male,21,Advisory,Senior Analyst,0.1,75406,67,2,No,73,Yes
+EMP11953,Female,27,Advisory,Analyst,3.9,159760,54,4,No,17,No
+EMP11954,Male,41,Audit,Analyst,5.0,94284,64,4,No,11,Yes
+EMP11955,Male,41,Audit,Analyst,4.8,139579,43,3,No,71,No
+EMP11956,Female,37,Consulting,Analyst,0.4,38665,51,3,No,45,Yes
+EMP11957,Male,30,Audit,Analyst,7.0,45641,48,4,Yes,54,No
+EMP11958,Male,31,Audit,Senior Analyst,3.3,60797,53,4,No,37,No
+EMP11959,Male,42,Consulting,Analyst,6.8,70950,41,4,Yes,77,Yes
+EMP11960,Female,29,Consulting,Analyst,1.8,154554,37,4,Yes,1,No
+EMP11961,Male,29,Consulting,Senior Analyst,1.7,127339,67,5,No,8,Yes
+EMP11962,Female,44,Advisory,Senior Manager,4.6,138431,66,3,No,4,Yes
+EMP11963,Female,25,Advisory,Senior Analyst,0.3,165710,45,5,Yes,18,Yes
+EMP11964,Male,37,Audit,Senior Manager,2.2,46173,36,4,Yes,70,Yes
+EMP11965,Male,29,Audit,Senior Analyst,5.4,169294,60,4,No,38,No
+EMP11966,Male,37,Technology,Analyst,5.3,43095,38,1,Yes,41,No
+EMP11967,Female,44,Advisory,Senior Analyst,9.4,148554,51,5,No,16,No
+EMP11968,Male,41,Technology,Senior Analyst,3.6,157511,51,3,No,62,No
+EMP11969,Male,39,Consulting,Analyst,0.7,150614,62,4,No,45,Yes
+EMP11970,Male,27,Advisory,Analyst,0.1,161447,64,2,Yes,19,Yes
+EMP11971,Male,43,Consulting,Senior Analyst,2.0,114023,57,3,Yes,69,Yes
+EMP11972,Male,29,Consulting,Analyst,2.2,132181,58,3,No,7,Yes
+EMP11973,Female,27,Consulting,Senior Analyst,0.8,45600,63,3,No,18,Yes
+EMP11974,Female,33,Consulting,Analyst,0.4,27466,38,2,Yes,31,Yes
+EMP11975,Male,31,Audit,Senior Analyst,2.6,134934,63,4,Yes,18,Yes
+EMP11976,Male,34,Consulting,Senior Analyst,4.3,78276,53,1,Yes,23,No
+EMP11977,Male,39,Tax,Analyst,15.0,31928,61,3,No,23,Yes
+EMP11978,Male,31,Technology,Analyst,4.3,80309,63,2,No,55,Yes
+EMP11979,Female,33,Consulting,Senior Analyst,4.7,141196,69,3,No,17,No
+EMP11980,Male,34,Consulting,Manager,2.9,34404,40,3,No,11,Yes
+EMP11981,Female,33,Audit,Manager,12.8,138187,57,3,No,40,Yes
+EMP11982,Female,21,Advisory,Senior Analyst,3.1,135449,42,3,No,47,Yes
+EMP11983,Male,28,Consulting,Senior Analyst,5.9,52684,36,4,Yes,63,No
+EMP11984,Female,32,Technology,Analyst,8.7,93591,47,2,Yes,15,No
+EMP11985,Female,39,Consulting,Analyst,8.0,144821,55,2,Yes,79,No
+EMP11986,Female,32,Consulting,Analyst,1.4,27682,65,3,No,22,Yes
+EMP11987,Female,28,Advisory,Senior Analyst,0.2,136186,61,5,No,38,Yes
+EMP11988,Male,28,Tax,Analyst,0.6,46832,57,3,No,32,Yes
+EMP11989,Male,41,Consulting,Analyst,0.2,41997,55,3,Yes,23,Yes
+EMP11990,Female,33,Consulting,Senior Analyst,0.3,59640,47,3,Yes,60,No
+EMP11991,Male,32,Technology,Senior Analyst,0.6,65491,60,3,Yes,54,Yes
+EMP11992,Male,36,Audit,Analyst,1.3,88043,41,2,No,60,Yes
+EMP11993,Male,21,Technology,Analyst,2.4,137175,56,1,Yes,39,Yes
+EMP11994,Male,33,Audit,Analyst,3.7,153568,57,3,Yes,57,Yes
+EMP11995,Male,27,Tax,Analyst,0.7,139250,64,3,No,71,Yes
+EMP11996,Female,25,Advisory,Senior Analyst,3.3,97725,52,2,Yes,73,No
+EMP11997,Male,28,Consulting,Analyst,3.7,153131,52,4,No,0,No
+EMP11998,Male,34,Technology,Senior Analyst,2.5,70520,44,5,Yes,24,No
+EMP11999,Male,43,Audit,Manager,7.0,87919,64,3,No,52,No
