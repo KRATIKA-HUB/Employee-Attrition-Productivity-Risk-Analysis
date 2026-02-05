@@ -63,6 +63,6 @@ Kratika Gupta
 
 Current Goal: Learning Data Analytics & Machine Learning.
 
-Connect with me: [https://www.linkedin.com/in/kratika-gupta-88309828a/]
+Connect with me:  [https://www.linkedin.com/in/kratika-gupta-88309828a/]
 
-GitHub: [github.com/KRATIKA-HUB]
+GitHub:  [github.com/KRATIKA-HUB]
