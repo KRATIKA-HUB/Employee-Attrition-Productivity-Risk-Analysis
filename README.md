@@ -1,5 +1,6 @@
-Employee Attrition & Productivity Risk Analysis
-📊 Big 4 Consulting HR Analytics Case Study
+# Employee Attrition & Productivity Risk Analysis
+
+### 📊 Big 4 Consulting HR Analytics Case Study
 This project addresses a critical challenge in high-pressure consulting environments: Predicting and Mitigating Employee Attrition. Using a synthetic dataset modelled after Big 4 firms (Deloitte, PwC, EY, KPMG), this analysis identifies the core drivers of turnover and provides a machine-learning framework to flag high-risk employees.
 
 📌 Project Overview
