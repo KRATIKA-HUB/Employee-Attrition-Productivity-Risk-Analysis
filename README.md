@@ -16,7 +16,7 @@ In the professional services industry, high attrition leads to lost institutiona
 ### 📂 Dataset Description
 The analysis is based on the Big4_HR_Analytics_Synthetic_Dataset.csv file, which contains 2,000+ employee records. Key features include:
 
-**Demographics:** Ag**e, Gender.
+**Demographics:** Age, Gender.
 
 **Professional:** Department (Audit, Tax, Consulting, etc.), Job Level, Tenure.
 
@@ -52,11 +52,11 @@ I implemented two primary classification algorithms to predict attrition risk:
 ### 🚀 Business Recommendations
 **Early Intervention:** Implement "Stay Interviews" and mentorship support for employees in their first 18 months.
 
-** Burnout Mitigation:** Monitor teams exceeding 55+ weekly hours and rebalance workloads.
+**Burnout Mitigation:** Monitor teams exceeding 55+ weekly hours and rebalance workloads.
 
-** Benchmarking:** Conduct bi-annual salary reviews for mid-level roles to remain competitive.
+**Benchmarking:** Conduct bi-annual salary reviews for mid-level roles to remain competitive.
 
-** Personalized Retention:** Use the model’s "Attrition Probability Score" to offer tailored incentives to high-value, high-risk talent.
+**Personalized Retention:** Use the model’s "Attrition Probability Score" to offer tailored incentives to high-value, high-risk talent.
 
 ### ✍️ Author
 Kratika Gupta
@@ -65,4 +65,4 @@ Current Goal: Learning Data Analytics & Machine Learning.
 
 Connect with me:
 
-GitHub: github.com/KRATIKA-HUB
+GitHub:github.com/KRATIKA-HUB
